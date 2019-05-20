@@ -1,4 +1,4 @@
-# Carleton University Public Course Scrapper
+# Carleton University Public Course Scrapper ```version 0.1.0```
 Scraps all of the public courses into a text files and then converts it to JSON file.
 
 ### How to use the scrapper?

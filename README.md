@@ -1,5 +1,8 @@
-# Carleton University Public Course Scrapper ```version 0.1.0```
+# Carleton University Public Course Scrapper 
 Scraps all of the public courses into a text files and then converts it to JSON file.
+
+### Build Version
+```version 0.1.0```
 
 ### How to use the scrapper?
 * Must have python-3 installed with beautifulsooup4 and selenium webdriver (Chrome Browser) installed as dependencies.

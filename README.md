@@ -11,7 +11,7 @@ Scraps all of the public courses into a text files and then converts it into a J
 * Finally to convert the text file to JSON you need to run the TextToJSONConversion.py which will map line by line to a JSON param.
 
 ### What would I use this for?
-* This going to be used for an IOS and Android app that will show public schedule in an organzied way instead of visting the Carleton University Public Course (CUPC) website.
+* This going to be used for an IOS and Android app that will show public schedule in an organzied way instead of visting the Carleton University Public Course (CUPC) website each time.
 
 ### What is newer versions going to look like?
 * The end goal for this scrapper is to be deployed as a micro-service, that is able to have cron jobs each semester, and convert public courses into JSON data automatically without any manual input.

@@ -20,7 +20,7 @@ Scraps all of the public courses into a text files and then converts it into a J
 
 ```
 
-Copyright 2019 Sirak Berhane
+Copyright 2019 Oblivion Studios (DevTOS)
 
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.

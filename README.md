@@ -11,7 +11,7 @@ Scraps all of the public courses into a text files and then converts it into a J
 * Finally to convert the text file to JSON you need to run the TextToJSONConversion.py which will map line by line to a JSON param.
 
 ### What is this API use this for?
-* This going to be used for a website that will show public schedule for various canadian universities in an organzied way instead of visting the particular University Course site website each time. Users will be able to make timetable schedules easily, provide recomended time to start classes, view and compare schedules with friends, and integrate Google Calendar/Outlook for an easy sync.
+* This going to be used for a website that will show public schedule for various canadian universities in an organzied way instead of visting the particular university course website each time. Users will be able to make timetable schedules easily, provide recomended time to start classes, view and compare schedules with other users, and integrate Google Calendar/Outlook for an easy sync.
 
 ### What is newer versions going to look like?
 * The end goal for this scrapper is to be deployed as a micro-service, that is able to have cron jobs each semester, and convert public courses into JSON data automatically without any manual input.

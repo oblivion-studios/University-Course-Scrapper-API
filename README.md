@@ -2,7 +2,7 @@
 Scraps all of the public courses into a text files and then converts it into a JSON file.
 
 ### Build Version
-```version 0.1.0 [BETA-01]```
+```API Version 1.0.0```
 
 ### How to use CU Course Scrapper?
 * Must have python-3 installed with beautifulsooup4 and selenium webdriver (Chrome Browser) installed as dependencies.

@@ -1,0 +1,62 @@
+[
+    {
+        "Status": "Open",
+        "CRN": "13284",
+        "Course Number": "ITEC 1400",
+        "Section": "B",
+        "Title": "Intro Programming & Prob Solv",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "David Sprague",
+        "Meeting Date": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Mon Wed Time: 11:35 - 12:55 Building: Loeb Building Room: C164",
+        "Also Register In": "Also Register in:ITEC 1400 B1",
+        "Other": "Section Information:Precludes additional credit for BIT 1400, IMD 1003 (no longer offered), NET 1000 (no longer offered), PLT 1000 (no longer offered)."
+    },
+    {
+        "Status": "Open",
+        "CRN": "13285",
+        "Course Number": "ITEC 1400",
+        "Section": "B1",
+        "Title": "Intro Programming & Prob Solv",
+        "Credits": "0",
+        "Type": "Tutorial",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "David Sprague",
+        "Meeting Date": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Mon Time: 08:35 - 11:25 Building: Azrieli Pavilion Room: 134",
+        "Also Register In": "Also Register in:ITEC 1400 B",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "13286",
+        "Course Number": "ITEC 2100",
+        "Section": "A",
+        "Title": "Data Visualization",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "David Sprague",
+        "Meeting Date": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Wed Time: 16:05 - 17:25 Building: Azrieli Pavilion Room: 236",
+        "Also Register In": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Thu Time: 14:35 - 15:55 Building: Azrieli Pavilion Room: 236",
+        "Other": "Also Register in:ITEC 2100 A1"
+    },
+    {
+        "Status": "Open",
+        "CRN": "13287",
+        "Course Number": "ITEC 2100",
+        "Section": "A1",
+        "Title": "Data Visualization",
+        "Credits": "0",
+        "Type": "Laboratory",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "David Sprague",
+        "Meeting Date": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Thu Time: 16:35 - 18:25 Building: Azrieli Pavilion Room: 236",
+        "Also Register In": "Also Register in:ITEC 2100 A",
+        "Other": "none"
+    }
+]

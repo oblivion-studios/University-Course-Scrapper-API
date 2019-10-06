@@ -1,0 +1,32 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "20984",
+        "Course Number": "MGMT 5115",
+        "Section": "A",
+        "Title": "Leadership",
+        "Credits": ".25",
+        "Type": "Seminar",
+        "Restrictions": "Yes",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Richard Clayman",
+        "Meeting Date": "Meeting Date: Jun 07, 2019 to Jun 15, 2019 Days: Fri Time: 18:05 - 20:55 Building: Dunton Tower Room: 328",
+        "Also Register In": "Meeting Date: Jun 07, 2019 to Jun 15, 2019 Days: Sat Time: 08:35 - 16:25 Building: Dunton Tower Room: 328",
+        "Other": "Section Information:will be offered over two weekends Friday June 7, Saturday, June 8 Friday June 14, Saturday, June 15 for MBA students only"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21461",
+        "Course Number": "MGMT 5117",
+        "Section": "Q",
+        "Title": "Knowledge Management",
+        "Credits": ".25",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Ruth McKay",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "Section Information:for MBA Bogota only",
+        "Other": "none"
+    }
+]

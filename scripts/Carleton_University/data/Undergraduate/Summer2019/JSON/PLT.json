@@ -1,0 +1,62 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "21499",
+        "Course Number": "PLT 1007",
+        "Section": "B",
+        "Title": "Assembly and Machine Language",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Frank Emanuel",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Wed Time: 14:05 - 16:55 Building: AlgonC AdvancedTechnologyCtr Room: 114",
+        "Also Register In": "Also Register in:PLT 1007 B1",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21500",
+        "Course Number": "PLT 1007",
+        "Section": "B1",
+        "Title": "Assembly and Machine Language",
+        "Credits": "0",
+        "Type": "Laboratory",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Frank Emanuel",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Wed Time: 17:05 - 17:55 Building: AlgonC AdvancedTechnologyCtr Room: 114",
+        "Also Register In": "Also Register in:PLT 1007 B",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21510",
+        "Course Number": "PLT 3002",
+        "Section": "B",
+        "Title": "Real Time-Systems",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Rami Sabouni",
+        "Meeting Date": "Meeting Date: Jul 02, 2019 to Aug 14, 2019 Days: Mon Fri Time: 14:35 - 17:25 Building: Azrieli Pavilion Room: 132",
+        "Also Register In": "Also Register in:PLT 3002 B1",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21509",
+        "Course Number": "PLT 3002",
+        "Section": "B1",
+        "Title": "Real Time-Systems",
+        "Credits": "0",
+        "Type": "Laboratory",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Meeting Date: Jul 02, 2019 to Aug 14, 2019 Days: Mon Fri Time: 18:05 - 19:55 Building: MacOdrum Library Room: 153",
+        "Meeting Date": "Also Register in:PLT 3002 B",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

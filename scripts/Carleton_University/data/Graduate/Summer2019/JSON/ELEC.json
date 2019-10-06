@@ -1,0 +1,62 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "20251",
+        "Course Number": "ELEC 5900",
+        "Section": "S",
+        "Title": "Engineering Project I",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Steven McGarry",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20252",
+        "Course Number": "ELEC 5906",
+        "Section": "S",
+        "Title": "Directed Studies",
+        "Credits": ".5",
+        "Type": "Directed Studies",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Steven McGarry",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20253",
+        "Course Number": "ELEC 5909",
+        "Section": "S",
+        "Title": "M.A.Sc. Thesis",
+        "Credits": "0",
+        "Type": "Masters Thesis",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Steven McGarry",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20254",
+        "Course Number": "ELEC 6909",
+        "Section": "S",
+        "Title": "Ph.D. Thesis",
+        "Credits": "0",
+        "Type": "PhD Thesis",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Steven McGarry",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

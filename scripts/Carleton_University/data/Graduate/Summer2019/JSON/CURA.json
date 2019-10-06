@@ -1,0 +1,32 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "20165",
+        "Course Number": "CURA 5011",
+        "Section": "S",
+        "Title": "Curatorial Studies Practicum 1",
+        "Credits": ".5",
+        "Type": "Practicum",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Monica Patterson",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20166",
+        "Course Number": "CURA 5012",
+        "Section": "S",
+        "Title": "Curatorial Studies Practicum 2",
+        "Credits": ".5",
+        "Type": "Practicum",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Monica Patterson",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

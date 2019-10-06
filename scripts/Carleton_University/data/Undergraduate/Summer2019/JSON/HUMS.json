@@ -1,0 +1,32 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "20922",
+        "Course Number": "HUMS 4001",
+        "Section": "A",
+        "Title": "Directed Studies in Humanities",
+        "Credits": ".5",
+        "Type": "Independent Study",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Shane Hawkins",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Jun 18, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21266",
+        "Course Number": "HUMS 4002",
+        "Section": "A",
+        "Title": "Directed Studies in Humanities",
+        "Credits": ".5",
+        "Type": "Independent Study",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Shane Hawkins",
+        "Meeting Date": "Meeting Date: Jul 02, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

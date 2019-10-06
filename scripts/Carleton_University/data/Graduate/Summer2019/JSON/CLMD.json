@@ -1,0 +1,62 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "20140",
+        "Course Number": "CLMD 6901",
+        "Section": "S",
+        "Title": "Directed Readings in Cultural",
+        "Credits": ".5",
+        "Type": "Directed Studies",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Pascal Gin",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20141",
+        "Course Number": "CLMD 6907",
+        "Section": "S",
+        "Title": "Comprehensive I",
+        "Credits": "1",
+        "Type": "Comprehensive",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Pascal Gin",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20142",
+        "Course Number": "CLMD 6908",
+        "Section": "S",
+        "Title": "Comprehensive II",
+        "Credits": "1",
+        "Type": "Comprehensive",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Pascal Gin",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20143",
+        "Course Number": "CLMD 6909",
+        "Section": "S",
+        "Title": "Ph.D. Thesis",
+        "Credits": "0",
+        "Type": "PhD Thesis",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Pascal Gin",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

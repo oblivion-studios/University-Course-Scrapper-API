@@ -1,0 +1,32 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "20779",
+        "Course Number": "CHST 1000",
+        "Section": "A",
+        "Title": "Childhood in Global Context",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Xuan Thuy Nguyen",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Jun 18, 2019 Days: Mon Wed Time: 14:35 - 17:25 Building: Tory Building Room: 213",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21170",
+        "Course Number": "CHST 1002",
+        "Section": "A",
+        "Title": "Childhood in Canadian Context",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Zainab Amery",
+        "Meeting Date": "Meeting Date: Jul 02, 2019 to Aug 14, 2019 Days: Tue Thu Time: 18:05 - 20:55 Building: University Centre Room: 279",
+        "Also Register In": "Section Information:Precludes additional credit from CHST 1001 (no longer offere d).",
+        "Other": "none"
+    }
+]

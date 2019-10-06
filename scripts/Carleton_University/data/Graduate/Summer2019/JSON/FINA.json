@@ -1,0 +1,32 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "21469",
+        "Course Number": "FINA 5511",
+        "Section": "C",
+        "Title": "Investments",
+        "Credits": ".25",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Howard Nemiroff",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "Section Information:for MBA Shanghai only",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21462",
+        "Course Number": "FINA 5513",
+        "Section": "Q",
+        "Title": "Mergers and Acquisitions",
+        "Credits": ".25",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Isaac Otchere",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "Section Information:for MBA Bogota only",
+        "Other": "none"
+    }
+]

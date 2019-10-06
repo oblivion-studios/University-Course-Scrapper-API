@@ -1,0 +1,62 @@
+[
+    {
+        "Status": "Open",
+        "CRN": "12185",
+        "Course Number": "ENSC 2002",
+        "Section": "A",
+        "Title": "Environmental Methods & Analysis",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Joe Bennett",
+        "Meeting Date": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Mon Wed Time: 13:05 - 14:25 Building: Mackenzie Building Room: 4342",
+        "Also Register In": "Section Information:For Environmental Science majors only.",
+        "Other": "none"
+    },
+    {
+        "Status": "Full, No Waitlist",
+        "CRN": "12187",
+        "Course Number": "ENSC 4002",
+        "Section": "A",
+        "Title": "Environmental Decisions",
+        "Credits": ".5",
+        "Type": "Workshop",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Joe Bennett",
+        "Meeting Date": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Tue Thu Time: 13:05 - 14:25 Building: Tory Building Room: 431",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Full, No Waitlist",
+        "CRN": "15481",
+        "Course Number": "ENSC 4901",
+        "Section": "A",
+        "Title": "Directed Projects",
+        "Credits": ".5",
+        "Type": "Directed Studies",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Steven Cooke",
+        "Meeting Date": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Time: 00:00 - 11:59 Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "12188",
+        "Course Number": "ENSC 4906",
+        "Section": "A",
+        "Title": "Honours Research Project",
+        "Credits": ".5",
+        "Type": "Research Project",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Steven Cooke",
+        "Meeting Date": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Time: Building: Room:",
+        "Also Register In": "Section Information:Departmental Permission required.",
+        "Other": "none"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "20494",
+        "Course Number": "MECH 5906",
+        "Section": "S",
+        "Title": "Directed Studies",
+        "Credits": ".5",
+        "Type": "Directed Studies",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Andrei Artemev",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20495",
+        "Course Number": "MECH 5908",
+        "Section": "S",
+        "Title": "Independent Study",
+        "Credits": "1.5",
+        "Type": "Independent Study",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Andrei Artemev",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20496",
+        "Course Number": "MECH 5909",
+        "Section": "S",
+        "Title": "M.A.Sc. Thesis",
+        "Credits": "0",
+        "Type": "Masters Thesis",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Andrei Artemev",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20497",
+        "Course Number": "MECH 6909",
+        "Section": "S",
+        "Title": "Ph.D. Thesis",
+        "Credits": "0",
+        "Type": "PhD Thesis",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Andrei Artemev",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

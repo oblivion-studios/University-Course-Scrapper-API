@@ -1,0 +1,32 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "20337",
+        "Course Number": "FOOD 4907",
+        "Section": "A",
+        "Title": "Food Sci Nutri Hons Essay Rsrc",
+        "Credits": "1",
+        "Type": "Honours Essay",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Apollinaire Tsopmo",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "Section Information:Precludes additional credit for FOOD 4908, CHEM 4907 and CHEM 4908.",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20338",
+        "Course Number": "FOOD 4908",
+        "Section": "A",
+        "Title": "Food Scien & Nutrition Rsrc Proj",
+        "Credits": "1",
+        "Type": "Honours Essay",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Apollinaire Tsopmo",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "Section Information:Precludes additional credit for FOOD 4907, CHEM 4907, and CHEM 4908.",
+        "Other": "none"
+    }
+]

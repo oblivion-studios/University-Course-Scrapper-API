@@ -1,0 +1,47 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "21458",
+        "Course Number": "DIGH 5011",
+        "Section": "S",
+        "Title": "DH Graduate Practicum",
+        "Credits": ".5",
+        "Type": "Practicum",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Brian Greenspan",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21586",
+        "Course Number": "DIGH 5011",
+        "Section": "T",
+        "Title": "DH Graduate Practicum",
+        "Credits": ".5",
+        "Type": "Practicum",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Brian Greenspan",
+        "Meeting Date": "Meeting Date: Jul 02, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21459",
+        "Course Number": "DIGH 5012",
+        "Section": "S",
+        "Title": "DH Directed Readings",
+        "Credits": ".5",
+        "Type": "Directed Studies",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Brian Greenspan",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

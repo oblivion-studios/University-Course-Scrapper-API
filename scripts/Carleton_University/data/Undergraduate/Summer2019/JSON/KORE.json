@@ -1,0 +1,32 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "20938",
+        "Course Number": "KORE 1010",
+        "Section": "A",
+        "Title": "First-Year Korean I",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Hyoun Jeong Yoo",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Jun 18, 2019 Days: Mon Wed Time: 13:35 - 17:25 Building: Paterson Hall Room: 201",
+        "Also Register In": "Section Information:For students learning the language for the 1st time. All others see placement info; www.carleton.ca/slals/. Compulsory attendance. Please note: This is an Early Summer (May-June) section. Precludes additional credit for LANG 1010, when the language of instruction was Korean.",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21273",
+        "Course Number": "KORE 1020",
+        "Section": "A",
+        "Title": "First-Year Korean II",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Hyoun Jeong Yoo",
+        "Meeting Date": "Meeting Date: Jul 02, 2019 to Aug 14, 2019 Days: Mon Wed Time: 13:35 - 17:25 Building: Tory Building Room: 204",
+        "Also Register In": "Section Information:Registering 1st time in KORE ... placement required BEFORE registration. For information www.carleton.ca/slals/. Please note: This is a Late Summer (July-August) section. Precludes additional credit for LANG 1010, when the language of instruction was Korean.",
+        "Other": "none"
+    }
+]

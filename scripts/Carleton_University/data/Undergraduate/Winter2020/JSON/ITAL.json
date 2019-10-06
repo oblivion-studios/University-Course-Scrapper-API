@@ -1,0 +1,63 @@
+[
+    {
+        "Status": "Waitlist Open",
+        "CRN": "13277",
+        "Course Number": "ITAL 1010",
+        "Section": "E",
+        "Title": "First-Year Italian I",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Wed Fri Time: 14:35 - 16:25 Building: Southam Hall Room: 406",
+        "Meeting Date": "Section Information:For students learning the language for the 1st time. All others see placement info www.carleton.ca/slals/. Compulsory attendance. Precludes additional credit for ITAL 1110. If full, waitlists on Carleton Central open July 2.",
+        "Also Register In": "Waitlist Open",
+        "Other": "13278",
+        "none": "Section Information:Registering 1st time in ITAL  placement required BEFORE registration.  For information see www.carleton.ca/slals/. Precludes additional credit for ITAL 1110."
+    },
+    {
+        "Status": "Open",
+        "CRN": "13280",
+        "Course Number": "ITAL 1020",
+        "Section": "B",
+        "Title": "First-Year Italian II",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Claudia Rocca",
+        "Meeting Date": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Mon Wed Time: 18:05 - 19:55 Building: Tory Building Room: 206",
+        "Also Register In": "Section Information:Registering 1st time in ITAL  placement required BEFORE registration.  For information see www.carleton.ca/slals/. Precludes additional credit for ITAL 1110.",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "13281",
+        "Course Number": "ITAL 2020",
+        "Section": "A",
+        "Title": "Second-Year Italian II",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Claudia Rocca",
+        "Meeting Date": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Mon Wed Time: 14:35 - 16:25 Building: Residence Commons Room: 208",
+        "Also Register In": "Section Information:Registering 1st time in ITAL  placement required BEFORE registration. For information see www.carleton.ca/slals/. Precludes additional credit for ITAL 2110.",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "15539",
+        "Course Number": "ITAL 4110",
+        "Section": "A",
+        "Title": "Intensive Fourth-Year Italian",
+        "Credits": "1",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Cristina Trevisan",
+        "Meeting Date": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Tue Thu Time: 14:35 - 17:25 Building: Canal Building Room: 3208",
+        "Also Register In": "Section Information:Registering 1st time in ITAL placement required BEFORE registration.  For information see www.carleton.ca/slals/.",
+        "Other": "none"
+    }
+]

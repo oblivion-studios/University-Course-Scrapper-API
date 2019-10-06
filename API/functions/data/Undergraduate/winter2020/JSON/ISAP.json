@@ -1,0 +1,62 @@
+[
+    {
+        "Status": "Open",
+        "CRN": "13271",
+        "Course Number": "ISAP 1002",
+        "Section": "A",
+        "Title": "Sem Interdisciplinary Sci",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Sean Landsman",
+        "Meeting Date": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Wed Fri Time: 10:05 - 11:25 Building: Paterson Hall Room: 115",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "15453",
+        "Course Number": "ISAP 3001",
+        "Section": "A",
+        "Title": "Prncples/Apps in Data Analysis",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Thu Time: 14:35 - 17:25 Building: Southam Hall Room: 408",
+        "Meeting Date": "none",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "15454",
+        "Course Number": "ISAP 3001",
+        "Section": "WA1",
+        "Title": "Prncples/Apps in Data Analysis",
+        "Credits": "0",
+        "Type": "Workshop",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Fri Time: 14:35 - 16:25 Building: Richcraft Hall Room: 3224",
+        "Meeting Date": "none",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "15430",
+        "Course Number": "ISAP 3003",
+        "Section": "A",
+        "Title": "Science Communication",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Tue Thu Time: 10:05 - 11:25 Building: Paterson Hall Room: 234",
+        "Meeting Date": "none",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

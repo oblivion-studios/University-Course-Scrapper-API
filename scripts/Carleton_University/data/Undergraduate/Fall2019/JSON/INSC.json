@@ -1,0 +1,47 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "33365",
+        "Course Number": "INSC 3909",
+        "Section": "A",
+        "Title": "Independent Study",
+        "Credits": ".5",
+        "Type": "Independent Study",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Julia Wallace",
+        "Meeting Date": "Meeting Date: Sep 04, 2019 to Dec 06, 2019 Days: Time: Building: Room:",
+        "Also Register In": "Section Information:Permission from Department Required.",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "33366",
+        "Course Number": "INSC 4907",
+        "Section": "A",
+        "Title": "Honours Essay & Resea Proposal",
+        "Credits": ".5",
+        "Type": "Honours Essay",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Julia Wallace",
+        "Meeting Date": "Meeting Date: Sep 04, 2019 to Dec 06, 2019 Days: Time: Building: Room:",
+        "Also Register In": "Section Information:Precludes additional credit for INSC 4908 [1.0].",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "33367",
+        "Course Number": "INSC 4908",
+        "Section": "A",
+        "Title": "Honours Project",
+        "Credits": ".5",
+        "Type": "Honours Essay",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Julia Wallace",
+        "Meeting Date": "Meeting Date: Sep 04, 2019 to Dec 06, 2019 Days: Time: Building: Room:",
+        "Also Register In": "Section Information:Precludes additional credit for INSC 4907 [1.0]",
+        "Other": "none"
+    }
+]

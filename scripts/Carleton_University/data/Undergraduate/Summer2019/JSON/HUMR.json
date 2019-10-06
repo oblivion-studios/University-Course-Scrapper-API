@@ -1,0 +1,47 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "20921",
+        "Course Number": "HUMR 2202",
+        "Section": "A",
+        "Title": "Power Relations & Human Rights",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Paul Mkandawire",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Jun 18, 2019 Days: Mon Wed Time: 18:05 - 20:55 Building: Paterson Hall Room: 201",
+        "Also Register In": "Section Information:Second year standing or permission of the department",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21264",
+        "Course Number": "HUMR 3002",
+        "Section": "A",
+        "Title": "Right to the City",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Fiona Jeffries",
+        "Meeting Date": "Meeting Date: Jul 02, 2019 to Aug 14, 2019 Days: Mon Wed Time: 08:35 - 11:25 Building: Canal Building Room: 3400",
+        "Also Register In": "Section Information:3rd yr. standing",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21265",
+        "Course Number": "HUMR 3301",
+        "Section": "A",
+        "Title": "Racialism, Racism & Human Righ",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Davorka Ljubisic",
+        "Meeting Date": "Meeting Date: Jul 02, 2019 to Aug 14, 2019 Days: Mon Wed Time: 14:35 - 17:25 Building: Richcraft Hall Room: 1200",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

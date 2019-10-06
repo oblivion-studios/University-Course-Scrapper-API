@@ -1,0 +1,32 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "35597",
+        "Course Number": "ENVJ 5701",
+        "Section": "P",
+        "Title": "Biofilm proc.wasterwater treat",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Bradley Young",
+        "Meeting Date": "Meeting Date: Sep 04, 2019 to Dec 06, 2019 Days: Tue Time: 19:05 - 21:55 Building: Room:",
+        "Also Register In": "Section Information:EVG 5001 Biofilm Processes in Wastewater Treatment Ottawa U. Tuesday 19:00-22:00 Room MRN-021 Prof. Bradley Young",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "35579",
+        "Course Number": "ENVJ 5906",
+        "Section": "O",
+        "Title": "Solid Waste Disposal",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Majid Sartaj",
+        "Meeting Date": "Meeting Date: Sep 04, 2019 to Dec 06, 2019 Days: Tue Time: 13:05 - 14:25 Building: Room:",
+        "Also Register In": "Meeting Date: Sep 04, 2019 to Dec 06, 2019 Days: Thu Time: 11:35 - 12:55 Building: Room:",
+        "Other": "Section Information:CVG 5133 Solid Waste Disposal Uni. of Ottawa Tuesday 13:00-14:30 & Thursday 11:30-13:00 Room FSS-1006 Prof. M. Sartaj"
+    }
+]

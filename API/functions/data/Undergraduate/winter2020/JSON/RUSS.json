@@ -1,0 +1,62 @@
+[
+    {
+        "Status": "Open",
+        "CRN": "14789",
+        "Course Number": "RUSS 1020",
+        "Section": "A",
+        "Title": "First-Year Russian II",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Marina Sabanadze",
+        "Meeting Date": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Tue Thu Time: 09:35 - 11:25 Building: St. Patrick's Building Room: 412",
+        "Also Register In": "Section Information:Registering 1st time in RUSS  placement required BEFORE registration.  For information see www.carleton.ca/slals/. Precludes additional credit for RUSS 1110.",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "14790",
+        "Course Number": "RUSS 2020",
+        "Section": "A",
+        "Title": "Second-Year Russian II",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Mon Wed Time: 14:35 - 16:25 Building: St. Patrick's Building Room: 412",
+        "Meeting Date": "Section Information:Registering 1st time in RUSS  placement required BEFORE registration.  For information see www.carleton.ca/slals/.",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "14791",
+        "Course Number": "RUSS 3020",
+        "Section": "A",
+        "Title": "Third-Year Russian II",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Marina Sabanadze",
+        "Meeting Date": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Tue Thu Time: 11:35 - 12:55 Building: St. Patrick's Building Room: 303",
+        "Also Register In": "Section Information:Registering 1st time in RUSS ... placement required BEFORE registration. For information www.carleton.ca/slals/",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "15654",
+        "Course Number": "RUSS 4115",
+        "Section": "A",
+        "Title": "Russian for Social Studies",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Marina Sabanadze",
+        "Meeting Date": "Meeting Date: Jan 06, 2020 to Apr 07, 2020 Days: Wed Time: 14:35 - 17:25 Building: St. Patrick's Building Room: 342",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

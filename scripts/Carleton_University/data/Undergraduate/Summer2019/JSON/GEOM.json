@@ -1,0 +1,62 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "21260",
+        "Course Number": "GEOM 4005",
+        "Section": "A",
+        "Title": "Directed Studies in Geomatics",
+        "Credits": ".5",
+        "Type": "Directed Studies",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Murray Richardson",
+        "Meeting Date": "Meeting Date: Jul 02, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20357",
+        "Course Number": "GEOM 4906",
+        "Section": "B",
+        "Title": "Honours Research Project",
+        "Credits": "1",
+        "Type": "Honours Essay",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Murray Richardson",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20358",
+        "Course Number": "GEOM 4909",
+        "Section": "B",
+        "Title": "Honours Research Thesis",
+        "Credits": "1",
+        "Type": "Honours Essay",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Murray Richardson",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "Section Information:Precludes additional credit for GEOG 4904, GEOM 4904 (no lon ger offered), GEOG 4906, ENST 4906 and ENST 4907.",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20359",
+        "Course Number": "GEOM 4909",
+        "Section": "C",
+        "Title": "Honours Research Thesis",
+        "Credits": "1",
+        "Type": "Honours Essay",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Murray Richardson",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Aug 14, 2019 Days: Time: Building: Room:",
+        "Also Register In": "Section Information:Precludes additional credit for GEOG 4904, GEOM 4904 (no lon ger offered), GEOG 4906, ENST 4906 and ENST 4907.",
+        "Other": "none"
+    }
+]

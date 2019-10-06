@@ -1,0 +1,62 @@
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "20933",
+        "Course Number": "JAPA 1010",
+        "Section": "A",
+        "Title": "First-Year Japanese I",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Yoriko Aizu",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Jun 18, 2019 Days: Tue Thu Time: 11:35 - 15:25 Building: St. Patrick's Building Room: 400",
+        "Also Register In": "Section Information:For students learning the language for the 1st time. All others see placement info: www.carleton.ca/slals/ Please note: Early Summer (May-June) section. Precludes additional credit for JAPA 1110.",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20934",
+        "Course Number": "JAPA 1010",
+        "Section": "B",
+        "Title": "First-Year Japanese I",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Yoriko Aizu",
+        "Meeting Date": "Meeting Date: May 06, 2019 to Jun 18, 2019 Days: Mon Wed Time: 11:35 - 15:25 Building: St. Patrick's Building Room: 435",
+        "Also Register In": "Section Information:For students learning the language for the 1st time. All others see placement info: www.carleton.ca/slals/ Please note: Early Summer (May-June) section. Precludes additional credit for JAPA 1110.",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21270",
+        "Course Number": "JAPA 1020",
+        "Section": "A",
+        "Title": "First-Year Japanese II",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Mizuki Hoshino",
+        "Meeting Date": "Meeting Date: Jul 02, 2019 to Aug 14, 2019 Days: Tue Thu Time: 11:35 - 15:25 Building: Paterson Hall Room: 218",
+        "Also Register In": "Section Information:Registering 1st time in JAPA ... placement required BEFORE registration. For information www.carleton.ca/slals/ Please note: Late Summer (July-Aug) section. Precludes additional credit for JAPA 1110.",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21271",
+        "Course Number": "JAPA 2110",
+        "Section": "A",
+        "Title": "Intensive Second-Year Japanese",
+        "Credits": "1",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Elizabeth Sowka",
+        "Meeting Date": "Meeting Date: Jul 02, 2019 to Aug 14, 2019 Days: Mon Tue Thu Fri Time: 09:35 - 13:25 Building: St. Patrick's Building Room: 412",
+        "Also Register In": "Section Information:Registering 1st time in JAPA ... placement required BEFORE registration. For information www.carleton.ca/slals/ Please note: Late Summer (July-Aug) section.",
+        "Other": "none"
+    }
+]

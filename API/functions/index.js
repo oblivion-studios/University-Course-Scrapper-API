@@ -29,7 +29,7 @@ app.get('/', apicache.middleware('24 hours'), function (request, response) {
         }
 
         var status = {}
-        status.name = "University Course REST API"
+        status.name = "University Course Scheduler (REST API)"
         status.api_version = "1.0.0"
         var newDate = new Date();
         var time = dateFormat(newDate.setHours(newDate.getHours() + 24), "yyyy-mm-dd h:MM:ss Z");

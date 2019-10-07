@@ -12,6 +12,7 @@ app.use(cors({
     optionsSuccessStatus: 200,
     origin: '*'
 }));
+
 app.use(express.json());
 app.options('*', cors());
 

@@ -24,6 +24,10 @@
       {
         "source": "/graduate",
         "function": "app"
+      },
+      {
+        "source": "/search",
+        "function": "app"
       }],
     "headers": [{
         "source": "**/",

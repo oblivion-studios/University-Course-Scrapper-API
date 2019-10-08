@@ -1,10 +1,10 @@
-## University Course Scrapper/Crawler  
+# University Course Scheduler
 Scraps all of the public courses into a text files and then converts it into a JSON file.
 
-### Build Version
+### API Build Version
 ```API Version 1.0.0```
 
-### How to use University Course Scrapper?
+### How to use University Course Scheduler API?
 * Must have python-3 installed with beautifulsooup4 and selenium webdriver (Chrome Browser) installed as dependencies.
 * Let the requestsOutputScrapper.py run first (takes the longest to run). UI is disabled for the selenium driver and only runs as headless browser.
 * Run the AdvancedStringParser.java file to remove any white spaces and weird symbols that it might have been scrapped. This is in java which will later be converted into python.
@@ -15,6 +15,20 @@ Scraps all of the public courses into a text files and then converts it into a J
 
 ### What is newer versions going to look like?
 * The end goal for this scrapper is to be deployed as a micro-service, that is able to have cron jobs each semester, and convert public courses into JSON data automatically without any manual input.
+
+## University Course Scheduler API Routes
+The following defines all of the current routes avaliable with this API:
+
+1) ``` \undergraduate ```  --> Gets the undergraduate courses.
+
+2) ``` \graduate ```       --> Gets the graduate courses.
+
+3) ``` \search ```         --> Uses Fuse.js to search through JSON object with given 'keyword search'
+
+#### Request Queries 
+1,2) ``` semester, year, and course ``` --> semester = 'Fall, Winter, or Summer' || Year = Current or Next School Year || course = Course Code
+
+3) ``` keyword, semester, year, and course ``` -> keyword = Search keyword by Title, Course Number, or CRN || semester = 'Fall, Winter, or Summer' || Year = Current or Next School Year || course = Course Code
 
 ### License
 

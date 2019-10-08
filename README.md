@@ -26,9 +26,11 @@ The following defines all of the current routes avaliable with this API:
 3) ``` \search ```         --> Uses Fuse.js to search through JSON object with given 'keyword search'
 
 #### Request Queries 
-1,2) ``` semester, year, and course ``` --> semester = 'Fall, Winter, or Summer' || Year = Current or Next School Year || course = Course Code
+1) {undergraduate} ``` semester, year, and course ``` --> semester = 'Fall, Winter, or Summer' || Year = Current or Next School Year || course = Course Code
 
-3) ``` keyword, semester, year, and course ``` -> keyword = Search keyword by Title, Course Number, or CRN || semester = 'Fall, Winter, or Summer' || Year = Current or Next School Year || course = Course Code
+2) {graduate} ``` semester, year, and course ``` --> semester = 'Fall, Winter, or Summer' || Year = Current or Next School Year || course = Course Code
+
+3) {search} ``` keyword, semester, year, and course ``` -> keyword = Search keyword by Title, Course Number, or CRN || semester = 'Fall, Winter, or Summer' || Year = Current or Next School Year || course = Course Code
 
 ### License
 

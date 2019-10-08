@@ -1,5 +1,11 @@
 # University Course Scheduler
+Top Level View (Scrapper --> REST API --> REACT Website)
+
+## University Course Scrapper (Python)
 Scraps all of the public courses into a text files and then converts it into a JSON file.
+
+## University Course Scheduler (Node JS, REST API)
+University Course Scheduler (REST API) used by the react website to build timetable.
 
 ### API Build Version
 ```API Version 1.0.0```
@@ -16,7 +22,7 @@ Scraps all of the public courses into a text files and then converts it into a J
 ### What is newer versions going to look like?
 * The end goal for this scrapper is to be deployed as a micro-service, that is able to have cron jobs each semester, and convert public courses into JSON data automatically without any manual input.
 
-## University Course Scheduler API Routes
+#### Express Routes Definitions
 The following defines all of the current routes avaliable with this API:
 
 1) ``` \undergraduate ```  --> Gets the undergraduate courses.
@@ -32,7 +38,10 @@ The following defines all of the current routes avaliable with this API:
 
 3) {search} ``` keyword, semester, year, and course ``` -> keyword = Search keyword by Title, Course Number, or CRN || semester = 'Fall, Winter, or Summer' || Year = Current or Next School Year || course = Course Code
 
-### License
+## University Course Website (Node JS, REACT)
+REACT website that fetches data from the API endpoint and displays an interface to build and share timetables. 
+
+# License
 
 ```
 

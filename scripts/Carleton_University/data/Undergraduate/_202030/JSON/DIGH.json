@@ -1,0 +1,62 @@
+[
+    {
+        "Status": "Open",
+        "CRN": "31330",
+        "Course Number": "DIGH 2001",
+        "Section": "A",
+        "Title": "Intro to Digital Humanities",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Christopher Eaket",
+        "Meeting Date": "Meeting Date: Sep 09, 2020 to Dec 11, 2020 Days: Wed Fri Time: 14:35 - 15:55",
+        "Also Register In": "Section Information:Blended: Wednesdays ASYNC, Fridays SYNC",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "31331",
+        "Course Number": "DIGH 2035",
+        "Section": "R",
+        "Title": "Technology, Culture & Society",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Carlos Novas",
+        "Meeting Date": "Meeting Date: Sep 09, 2020 to Dec 11, 2020 Days: Time:",
+        "Also Register In": "Section Information:Precludes additional credit for SOCI 2400. Online Web-Based Course. No on-campus requirement. CUOL",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "31332",
+        "Course Number": "DIGH 3001",
+        "Section": "A",
+        "Title": "The Book in the Digital Age",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Micheline White",
+        "Meeting Date": "Meeting Date: Sep 09, 2020 to Dec 11, 2020 Days: Thu Time: 14:35 - 17:25",
+        "Also Register In": "Section Information:Blended course: some lectures will be live at stated times.",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "31333",
+        "Course Number": "DIGH 3812",
+        "Section": "A",
+        "Title": "Digital History",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Samuel McCready",
+        "Meeting Date": "Meeting Date: Sep 09, 2020 to Dec 11, 2020 Days: Mon Time: 11:35 - 14:25",
+        "Also Register In": "Section Information:Also listed as HIST 3812.",
+        "Other": "none"
+    }
+]

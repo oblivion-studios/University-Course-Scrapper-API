@@ -1,0 +1,48 @@
+[
+    {
+        "Status": "Waitlist Closed",
+        "CRN": "33553",
+        "Course Number": "KORE 1010",
+        "Section": "A",
+        "Title": "First-Year Korean I",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Soyoung Kang",
+        "Meeting Date": "Meeting Date: Sep 09, 2020 to Dec 11, 2020 Days: Wed Fri Time: 09:35 - 11:25",
+        "Also Register In": "Section Information:ONLINE course: A mixture of meetings/activities at which students are expected to be available during the scheduled time, and other activities outside this time. Must complete additional requirements to remain in the course. See the Modern Languages website, www.carleton.ca/slals/ for more information. For students learning the language for the 1st time. All others require placement (see previous link). If full, waitlists open on Carleton Central July 2. Precludes additional credit for LANG 1010, when the language of instruction was Korean.",
+        "Other": "Waitlist Closed",
+        "none": "Section Information:ONLINE course: A mixture of meetings/activities at which students are expected to be available during the scheduled time, and other activities outside this time Registering 1st time in KORE...placement required BEFORE registration.  For information on testing and additional tech required, see www.carleton.ca/slals/. Precludes additional credit for LANG 2010, when the language of instruction was Korean."
+    },
+    {
+        "Status": "Full, No Waitlist",
+        "CRN": "35757",
+        "Course Number": "KORE 2010",
+        "Section": "B",
+        "Title": "Second-Year Korean I",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Soyoung Kang",
+        "Meeting Date": "Meeting Date: Sep 09, 2020 to Dec 11, 2020 Days: Tue Thu Time: 09:35 - 11:25",
+        "Also Register In": "Section Information:ONLINE course: A mixture of meetings/activities at which students are expected to be available during the scheduled time, and other activities outside this time. Registering 1st time in KORE... placement required BEFORE registration. For information on testing and additional tech required, see www.carleton.ca/slals/. Precludes additional credit for LANG 2010, when the language of instruction was Korean.",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "33559",
+        "Course Number": "KORE 3010",
+        "Section": "A",
+        "Title": "Third-Year Korean I",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Hyoun Jeong Yoo",
+        "Meeting Date": "Meeting Date: Sep 09, 2020 to Dec 11, 2020 Days: Wed Fri Time: 08:35 - 09:55",
+        "Also Register In": "Section Information:ONLINE course: A mixture of meetings/activities at which students are expected to be available during the scheduled time, and other activities outside this time. Registering 1st time in Korean placement required BEFORE registration.  For information on testing and additional tech required, see www.carleton.ca/slals/. Precludes additional credit for LING 3009, if section A taken in Fall 2018 and the language of instruction was Korean.",
+        "Other": "none"
+    }
+]

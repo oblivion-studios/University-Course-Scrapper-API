@@ -34,7 +34,7 @@ import json
 # ----------------------------------------------------
 
 # Course Code for Undergraduate Level
-static_course_code_fall = ["AERO", "AFRI", "ASLA", "ANTH", "ALDS", "ARAB", "ARCS",
+static_course_code_fall = [ "AERO", "AFRI", "ASLA", "ANTH", "ALDS", "ARAB", "ARCS",
                             "ARCC", "ARCN", "ARCH", "ARCU", "ARTH", "BIOC", "BIOL",
                             "BUSI", "CDNS", "CHEM", "CHST", "CHIN", "CIVE", "CLCV",
                             "COOP", "CGSC", "CCDP", "COMS", "COMP", "CRCJ", "DIGH",
@@ -42,12 +42,12 @@ static_course_code_fall = ["AERO", "AFRI", "ASLA", "ANTH", "ALDS", "ARAB", "ARCS
                             "ESLA", "ENVE", "ENSC", "ENST", "EURR", "FILM", "FYSM",
                             "FOOD", "FREN", "FINS", "GEOG", "GEOM", "GERM", "GPOL", "GINS",
                             "GREK", "HLTH", "HIST", "HUMR", "HUMS", "INDG", "IDES", "IRM",
-                            "BIT", "ITEC", "INSC", "IMD", "ISAP", "IPAF", "ISCI", "INAF", "ITAL",
+                            "BIT", "ITEC", "IMD", "ISAP", "IPAF", "ISCI", "INAF", "ITAL",
                             "JAPA", "JOUR", "KORE", "LATN", "LACS", "LAWS", "LING",
                             "MATH", "MECH", "MAAE", "MPAD", "MEMS", "MGDS", "MUSI", "NSCI",
-                            "NET", "NEUR", "PHIL", "PLT", "PHYS", "PSCI", "PORT", "PSYC",
-                            "PADM", "PAPM", "RELI", "RUSS", "SXST", "SOWK", "SOCI", "SAST", "SPAN",
-                            "STAT", "SREE", "SYSC", "TSES", "WGST"]
+                            "NET", "NEUR", "PHIL", "PHYS", "PSCI", "PORT", "PSYC",
+                            "PADM", "PAPM", "RELI", "RUSS", "SXST", "SOWK", "SOCI","SPAN",
+                            "STAT", "SREE", "SYSC", "TSES", "WGST"]     # "INSC", "PLT" , "SAST" - Removed 9/23/2020
 
 static_course_code_winter = ["AERO", "AFRI", "ASLA", "ANTH", "ALDS", "ARAB", "ARCS",
                             "ARCC", "ARCN", "ARCH", "ARCU", "ARTH", "BIOC", "BIOL",
@@ -127,7 +127,7 @@ browser = webdriver.Chrome(executable_path='C:/chromedriver/chromedriver.exe', o
 # Note: When the website is created there should be course status updater
 # Site: https://central.carleton.ca/prod/bwysched.p_display_course?wsea_code=EXT&term_code=202010&disp=11050565&crn=10012
 # Note: CRN and the term_code changes
-# YEAR: 2019 --> Followed by: (01) -> Winter, (02) -> Summer, (03) -> Fall
+# YEAR: 2020 --> Followed by: (10) -> Winter, (20) -> Summer, (30) -> Fall
 # COURSE STATUS SELECTOR: $('.contentareafull > table > tbody > tr:nth-child(11) > td:nth-child(2)').innerText
 
 # Get the URL
@@ -139,15 +139,16 @@ URL = "http://central.carleton.ca/prod/bwysched.p_select_term?wsea_code=EXT"
 browser.get(URL)
 print("GET URL: http://central.carleton.ca/prod/bwysched.p_select_term?wsea_code=EXT")
 
-# Find the Fall 2018 course schedule
-select_fall2018 = Select(browser.find_element_by_id('term_code'))
-select_fall2018.select_by_value('202010')
-print("\nSELECT WINTER 2020")
+# Find course schedule
+valueOfSemester = '202030' # CODE: 202110 for Winter 2021
+selectable = Select(browser.find_element_by_id('term_code'))
+selectable.select_by_value(valueOfSemester)
+print("\nSELECTING")
 
 # Wait for page to load
 time.sleep(2)
 
-# Click search for fall 2018
+# Click search
 browser.find_element_by_xpath("//input[@value='Proceed to Search']").click()
 print("CLICK Search")
 
@@ -157,10 +158,10 @@ time.sleep(6)
 # Database to Hold CRN, Course Code + Number + Section, Lab/Tutorial Section, Date, Building, Room
 # WEBSITE -> {Database to JSON} -> ANDROID STUDIO PORT -> ANDROID DEVICE Timetable Application
 # Return only CRN, Course Code + Number + Section, Lab/Tutorial Section, Date, Building, Room in for loop
-for x in range(0, len(static_course_code_grad_winter)):
+for x in range(0, len(static_course_code_fall)):
     # Choose Undergraduate Level
-    browser.find_element_by_xpath("//option[@value='GR']").click() # UG -> Undergraduate || GR -> Graduate
-    print("SELECT Graduate Course Level")
+    browser.find_element_by_xpath("//option[@value='UG']").click() # UG -> Undergraduate || GR -> Graduate
+    print("SELECT Course Level")
     time.sleep(2)
 
     # De-Select 'All Subjects'
@@ -171,8 +172,8 @@ for x in range(0, len(static_course_code_grad_winter)):
     if x > 0:
         Select(browser.find_element_by_xpath("//select[@id='subj_id']")).deselect_all()
     
-    Select(browser.find_element_by_xpath("//select[@id='subj_id']")).select_by_value(str(static_course_code_grad_winter[x]))
-    print("SELECT COURSE CODE: " + static_course_code_grad_winter[x])
+    Select(browser.find_element_by_xpath("//select[@id='subj_id']")).select_by_value(str(static_course_code_fall[x]))
+    print("SELECT COURSE CODE: " + static_course_code_fall[x])
 
     # Click search with the above course parameters
     browser.find_element_by_xpath("//input[@value='Search']").click()
@@ -196,13 +197,13 @@ for x in range(0, len(static_course_code_grad_winter)):
             # Output all rows of course data with the color of #C0C0C0
             # Each line is data to be converted into JSON
             if 'bgcolor' in container.attrs and container.attrs['bgcolor'] == '#C0C0C0':
-                with open("data/Graduate/Winter2020/JSON/" + static_course_code_grad_winter[x] + ".txt", "a") as fileOutput:
+                with open("data/Undergraduate/_" + valueOfSemester + "/JSON/" + static_course_code_fall[x] + ".txt", "a") as fileOutput:
                    fileOutput.write(str(container.text.encode("ascii", errors="ignore").decode()))
 
             # Output all rows of course data with the color of #DCDCDC
              # Each line is data to be converted into JSON
             if 'bgcolor' in container.attrs and container.attrs['bgcolor'] == '#DCDCDC':
-                with open("data/Graduate/Winter2020/JSON/" + static_course_code_grad_winter[x] + ".txt", "a") as fileOutput:
+                with open("data/Undergraduate/_" + valueOfSemester + "/JSON/" + static_course_code_fall[x] + ".txt", "a") as fileOutput:
                     fileOutput.write(str(container.text.encode("ascii", errors="ignore").decode()))
         except AttributeError:
             continue
@@ -210,11 +211,11 @@ for x in range(0, len(static_course_code_grad_winter)):
     # Create empty JSON files --> Used later when converting the raw text files to JSON
     # Eventually the JSON files will be converted to be a SQLite database
     # {DATA} --> (Fetch and Downloaded by Android Device) from AWS or Firebase Services.
-    with open("data/Graduate/Winter2020/JSON/" + static_course_code_grad_winter[x] + ".json", "a") as writeJSON:
+    with open("data/Undergraduate/_" + valueOfSemester +"/JSON/" + static_course_code_fall[x] + ".json", "a") as writeJSON:
         json.dump(courseInfoData, writeJSON, ensure_ascii=False)
 
     # Notify console output
-    print("DONE SAVING TO JSON FILE --> COURSE CODE [" + static_course_code_grad_winter[x] + "]\n")
+    print("DONE SAVING TO JSON FILE --> COURSE CODE [" + static_course_code_fall[x] + "]\n")
 
     # Return to Course Select
     browser.find_element_by_xpath("//input[@name='search_selected']").click()

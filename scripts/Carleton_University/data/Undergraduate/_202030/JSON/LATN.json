@@ -1,0 +1,47 @@
+[
+    {
+        "Status": "Open",
+        "CRN": "33563",
+        "Course Number": "LATN 1005",
+        "Section": "A",
+        "Title": "Introduction to Latin I",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Laura Gagne",
+        "Meeting Date": "Meeting Date: Sep 09, 2020 to Dec 11, 2020 Days: Mon Wed Time: 09:35 - 11:25",
+        "Also Register In": "Section Information:Recorded classes; no live, scheduled meetings online.",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "33564",
+        "Course Number": "LATN 1005",
+        "Section": "B",
+        "Title": "Introduction to Latin I",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Laura Banducci",
+        "Meeting Date": "Meeting Date: Sep 09, 2020 to Dec 11, 2020 Days: Wed Fri Time: 11:35 - 13:25",
+        "Also Register In": "Section Information:Recorded classes; no live, scheduled meetings online.",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "33566",
+        "Course Number": "LATN 2200",
+        "Section": "A",
+        "Title": "Intermediate Latin I",
+        "Credits": ".5",
+        "Type": "Tutorial",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Chandra Giroux",
+        "Meeting Date": "Meeting Date: Sep 09, 2020 to Dec 11, 2020 Days: Mon Wed Time: 11:35 - 12:55",
+        "Also Register In": "Section Information:Precludes additional credit for LATN 2001. Asynchronous courses  recorded classes; no live, scheduled meetings online",
+        "Other": "none"
+    }
+]

@@ -34,7 +34,7 @@ import json
 # ----------------------------------------------------
 
 # Course Code for Undergraduate Level
-static_course_code_fall = [ "AERO", "AFRI", "ASLA", "ANTH", "ALDS", "ARAB", "ARCS",
+static_course_code_fall = [ "AERO", "AFRI", "ASLA", "ANTH", "ALDS", "ARAB", "ARCY","ARCS",
                             "ARCC", "ARCN", "ARCH", "ARCU", "ARTH", "BIOC", "BIOL",
                             "BUSI", "CDNS", "CHEM", "CHST", "CHIN", "CIVE", "CLCV",
                             "COOP", "CGSC", "CCDP", "COMS", "COMP", "CRCJ", "DIGH",
@@ -45,7 +45,7 @@ static_course_code_fall = [ "AERO", "AFRI", "ASLA", "ANTH", "ALDS", "ARAB", "ARC
                             "BIT", "ITEC", "IMD", "ISAP", "IPAF", "ISCI", "INAF", "ITAL",
                             "JAPA", "JOUR", "KORE", "LATN", "LACS", "LAWS", "LING",
                             "MATH", "MECH", "MAAE", "MPAD", "MEMS", "MGDS", "MUSI", "NSCI",
-                            "NET", "NEUR", "PHIL", "PHYS", "PSCI", "PORT", "PSYC",
+                            "NET", "NEUR", "OSS", "PHIL", "PHYS", "PSCI", "PORT", "PSYC",
                             "PADM", "PAPM", "RELI", "RUSS", "SXST", "SOWK", "SOCI","SPAN",
                             "STAT", "SREE", "SYSC", "TSES", "WGST"]     # "INSC", "PLT" , "SAST" - Removed 9/23/2020
 

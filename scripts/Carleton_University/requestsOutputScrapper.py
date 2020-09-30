@@ -57,23 +57,24 @@ static_course_code_winter = ["AERO", "AFRI", "ASLA", "ANTH", "ALDS", "ARAB", "AR
                             "ESLA", "ENVE", "ENSC", "ENST", "EURR", "FILM", "FYSM",
                             "FOOD", "FREN", "FINS", "GEOG", "GEOM", "GERM", "GPOL", "GINS",
                             "GREK", "HLTH", "HIST", "HUMR", "HUMS", "INDG", "IDES", "IRM",
-                            "BIT", "ITEC", "INSC", "IMD", "ISAP", "IPAF", "ISCI", "INAF", "ITAL",
+                            "BIT", "ITEC",  "IMD", "ISAP", "IPAF", "ISCI", "INAF", "ITAL",
                             "JAPA", "JOUR", "KORE", "LATN", "LACS", "LAWS", "LING",
                             "MATH", "MECH", "MAAE", "MPAD", "MEMS", "MUSI",
-                            "NET", "NEUR", "PHIL", "PLT", "PHYS", "POLM", "PSCI", "PORT", "PSYC",
+                            "NET", "NEUR", "OSS", "PHIL", "PHYS", "POLM", "PSCI", "PORT", "PSYC",
                             "PADM", "PAPM", "RELI", "RUSS", "SXST", "SOWK", "SOCI", "SPAN",
-                            "STAT", "SREE", "SYSC", "TSES", "WGST"]                      
+                            "STAT", "SREE", "SYSC", "TSES", "WGST"]     #   "INSC", "PLT",          
 
 # Removed following courses due to empty result: "ARCC", "ARCN", "HUMS", "INSC", "ITIS", "ITEC", "IPIS", "JAPA", "LANG", "KORE", "PLT", "SPAN"
-static_course_code_summer = ["AFRI", "ASLA", "ANTH", "ALDS", "ARCS", "ARCN", "ARCH", "ARTH", "BIOC", 
+static_course_code_summer = ["AFRI", "ANTH", "ALDS", "ARCS", "ARCH", "ARTH", "BIOC", 
                              "BIOL", "BUSI", "CDNS", "CHEM", "CHST", "CIVE", "CLCV", "CGSC", 
                              "CCDP", "COMS", "COMP", "CRCJ", "DIGH", "DBST", "ERTH", "ECON", "ELEC", 
                              "ECOR", "ENGL", "ESLA", "ENVE", "ENSC", "ENST", "EURR", "FILM", 
-                             "FOOD", "FREN", "GEOG", "GEOM", "GERM", "GPOL", "GINS", "HLTH", "HIST", 
-                             "HUMR", "INDG", "IDES", "BIT", "IPAF", "ITAL",  
+                             "FOOD", "FREN", "GEOG", "GEOM", "GPOL", "GINS", "HLTH", "HIST", 
+                             "HUMR", "INDG", "BIT", "IPAF",  
                              "LAWS", "LING", "MATH", "MAAE", "MUSI", "NET", "NEUR", "PHIL", 
                              "PHYS", "PSCI", "PSYC", "PAPM", "RELI", "SXST", "SOWK", "SOCI", 
                              "STAT", "SYSC", "TSES", "WGST"]
+# static_course_code_summer = ["ASLA", "ARCN", "GERM", "IDES", "ITAL"]
 
 # Course Code for Graduate Level
 static_course_code_grad_fall = ["ACCT", "AFRI", "ANTH", "ALDS", "ARCT", "ARCS",

@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "20903",
+        "Course Number": "ENVE 2002",
+        "Section": "A",
+        "Title": "Microbiology",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Ashkan Golshani",
+        "Meeting Date": "Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Time:",
+        "Also Register In": "Section Information:Microbiology Precludes additional credit for BIOL3301.",
+        "Other": "none"
+    }
+]

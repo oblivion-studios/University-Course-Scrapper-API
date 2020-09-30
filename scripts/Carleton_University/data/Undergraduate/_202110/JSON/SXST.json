@@ -1,0 +1,32 @@
+[
+    {
+        "Status": "Full, No Waitlist",
+        "CRN": "15261",
+        "Course Number": "SXST 3103",
+        "Section": "A",
+        "Title": "Sexuality and Disability",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Alessandra Iozzo",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Mon Time: 14:35 - 17:25",
+        "Also Register In": "Section Information:Sexuality and Disability Prereq: third-year standing or permission of institute",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "15262",
+        "Course Number": "SXST 4101",
+        "Section": "A",
+        "Title": "Public Feelings in Pandemic",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "Yes",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Ann Cvetkovich",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Tue Time: 11:35 - 14:25",
+        "Also Register In": "Section Information:Special Topic: Public Feelings in a Time of Pandemic Prereq: fourth-year standing, precludes credit for DIST 4101 (no longer offered) Blended course; ONLINE with some online meetings at originally scheduled times",
+        "Other": "none"
+    }
+]

@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "20908",
+        "Course Number": "ERTH 1010",
+        "Section": "T",
+        "Title": "Our Dynamic Planet Earth",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Matt Trenkler",
+        "Meeting Date": "Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Time:",
+        "Also Register In": "Section Information:Online Section, lectures recorded in previous academic term. Further information here: Carleton Online. Precludes additional credit for ERTH 1001 (no longer offered) and ERTH 1006.",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20910",
+        "Course Number": "ERTH 1011",
+        "Section": "T",
+        "Title": "Evolution of the Earth",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Jade Atkins",
+        "Meeting Date": "Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Time:",
+        "Also Register In": "Section Information:Online Section, lectures recorded in previous academic term. Further information here: Carleton Online. Precludes additional credit for GEOL 1008 (no longer offered ) and ERTH 1009.",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21294",
+        "Course Number": "ERTH 2415",
+        "Section": "V",
+        "Title": "Natural Disasters",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Mareike Adams",
+        "Meeting Date": "Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Time:",
+        "Also Register In": "Section Information:This course will be presented online using previously recorded lecture material. Further information here: Carleton Online.",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21724",
+        "Course Number": "ERTH 4003",
+        "Section": "A",
+        "Title": "Directed Studies in Geology",
+        "Credits": ".5",
+        "Type": "Directed Studies",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "none",
+        "Meeting Date": "none",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

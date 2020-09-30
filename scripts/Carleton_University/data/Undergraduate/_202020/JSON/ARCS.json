@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "21561",
+        "Course Number": "ARCS 3107",
+        "Section": "S",
+        "Title": "Studio 5",
+        "Credits": "1",
+        "Type": "Studio",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Santiago Guardia Miranda",
+        "Meeting Date": "Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Time:",
+        "Also Register In": "Section Information:Studio 5 Prerequisites: ARCS 2105 & ARCS 2106 This course will be presented online",
+        "Other": "none"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "Status": "Waitlist Open",
+        "CRN": "10728",
+        "Course Number": "CCDP 2100",
+        "Section": "N",
+        "Title": "Communication Skills for B.Eng",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Helen Triantafellou",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Wed Time: 14:35 - 17:25",
+        "Also Register In": "Section Information:Open only to B. Engineering students. Not open to new or returning 1st year BENG students.",
+        "Other": "Waitlist Open",
+        "none": "Section Information:Open only to B. Engineering students. Not open to new or returning 1st year BENG students."
+    },
+    {
+        "Status": "Open",
+        "CRN": "10738",
+        "Course Number": "CCDP 3008",
+        "Section": "A",
+        "Title": "Communication Skills for OSS",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Alex Myers",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Mon Time: 08:35 - 11:25",
+        "Also Register In": "Section Information:Precludes additional credit for PLT 3008. Restricted to students in the BITOSS program.",
+        "Other": "none"
+    }
+]

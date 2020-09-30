@@ -1,1 +1,47 @@
-[]
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "21251",
+        "Course Number": "DIGH 2705",
+        "Section": "A",
+        "Title": "Pop. Culture in the Dig. Age",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Joel Garrod",
+        "Meeting Date": "Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Time:",
+        "Also Register In": "Section Information:Asynchronous course - recorded classes; no live, scheduled meetings online.",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21600",
+        "Course Number": "DIGH 2705",
+        "Section": "B",
+        "Title": "Pop. Culture in the Dig. Age",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Joel Garrod",
+        "Meeting Date": "Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Time:",
+        "Also Register In": "Section Information:Asynchronous course - recorded classes; no live, scheduled meetings online.",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20798",
+        "Course Number": "DIGH 3814",
+        "Section": "O",
+        "Title": "Crafting Digital History",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Shawn Graham",
+        "Meeting Date": "Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Time:",
+        "Also Register In": "Section Information:This is an on-line course.  No in-class component. Precludes additional credit for HIST 3907B (winter 2015) and HIST 3907O (winter 2016).",
+        "Other": "none"
+    }
+]

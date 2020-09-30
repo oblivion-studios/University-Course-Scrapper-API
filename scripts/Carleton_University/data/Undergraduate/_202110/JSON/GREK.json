@@ -1,0 +1,62 @@
+[
+    {
+        "Status": "Open",
+        "CRN": "12976",
+        "Course Number": "GREK 1006",
+        "Section": "A",
+        "Title": "Introduction to Greek II",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Yukai Li",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Tue Thu Time: 11:35 - 13:25",
+        "Also Register In": "Section Information:Blended course: some lectures will be live at stated times.",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "12977",
+        "Course Number": "GREK 2201",
+        "Section": "A",
+        "Title": "Intermediate Greek II",
+        "Credits": ".5",
+        "Type": "Tutorial",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Susan Downie",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Mon Wed Time: 16:05 - 17:25",
+        "Also Register In": "Section Information:Precludes additional credit for GREK 2001. Blended course: some lectures will be live at stated times. Conflicts permitted.",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "12978",
+        "Course Number": "GREK 3901",
+        "Section": "A",
+        "Title": "Advanced Greek II",
+        "Credits": ".5",
+        "Type": "Tutorial",
+        "Restrictions": "Yes",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Shane Hawkins",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Time:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "12979",
+        "Course Number": "GREK 4901",
+        "Section": "A",
+        "Title": "Directed Study",
+        "Credits": ".5",
+        "Type": "Independent Study",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Shane Hawkins",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Time:",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

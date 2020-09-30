@@ -1,0 +1,47 @@
+[
+    {
+        "Status": "Open",
+        "CRN": "11320",
+        "Course Number": "DIGH 2002",
+        "Section": "A",
+        "Title": "Digital Hum.:  Theory & Method",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Brian Greenspan",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Tue Thu Time: 11:35 - 12:55",
+        "Also Register In": "Section Information:Blended course: some lectures will be live at stated times.",
+        "Other": "none"
+    },
+    {
+        "Status": "Full, No Waitlist",
+        "CRN": "11321",
+        "Course Number": "DIGH 2705",
+        "Section": "A",
+        "Title": "Pop. Culture in the Dig. Age",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Mike Mopas",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Tue Time: 11:35 - 14:25",
+        "Also Register In": "Section Information:Also listed as SOCI 2705.",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "11322",
+        "Course Number": "DIGH 4002",
+        "Section": "A",
+        "Title": "Digital Culture & the Text I",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Brian Greenspan",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Mon Time: 11:35 - 14:25",
+        "Also Register In": "Section Information:Blended course: some lectures will be live at stated times.",
+        "Other": "none"
+    }
+]

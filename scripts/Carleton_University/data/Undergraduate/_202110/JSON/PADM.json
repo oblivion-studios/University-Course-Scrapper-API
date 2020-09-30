@@ -1,0 +1,62 @@
+[
+    {
+        "Status": "Full, No Waitlist",
+        "CRN": "14332",
+        "Course Number": "PADM 4220",
+        "Section": "W",
+        "Title": "Regulation and Public Policy",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Vlasios Melessanakis",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Mon Time: 17:35 - 20:25",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Full, No Waitlist",
+        "CRN": "14333",
+        "Course Number": "PADM 4228",
+        "Section": "A",
+        "Title": "Social Policy",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Ma Gagnon",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Wed Time: 14:35 - 17:25",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Full, No Waitlist",
+        "CRN": "14334",
+        "Course Number": "PADM 4230",
+        "Section": "A",
+        "Title": "Ethics for Public Policy",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Wed Time: 17:35 - 20:25",
+        "Meeting Date": "none",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "14335",
+        "Course Number": "PADM 4616",
+        "Section": "W",
+        "Title": "Environmental Policy",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Thu Time: 17:35 - 20:25",
+        "Meeting Date": "none",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

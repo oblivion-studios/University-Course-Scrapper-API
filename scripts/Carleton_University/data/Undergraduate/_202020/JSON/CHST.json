@@ -1,1 +1,47 @@
-[]
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "21601",
+        "Course Number": "CHST 3302",
+        "Section": "A",
+        "Title": "Children, Policy, and Practice",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Zainab Amery",
+        "Meeting Date": "Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Time:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20770",
+        "Course Number": "CHST 3303",
+        "Section": "A",
+        "Title": "Childrens' Rights",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Julie Garlen",
+        "Meeting Date": "Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Time:",
+        "Also Register In": "Section Information:Cross listed with HUMR 3303 S A Offered online",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "21521",
+        "Course Number": "CHST 3303",
+        "Section": "B",
+        "Title": "Childrens' Rights",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Patricia Kmiec",
+        "Meeting Date": "Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Time:",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "Status": "Open",
+        "CRN": "15730",
+        "Course Number": "ISAP 1001",
+        "Section": "A",
+        "Title": "Intro Interdisciplinary Sci",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Julia Wallace",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Time:",
+        "Also Register In": "Section Information:Blended. In class discussions and pre-recorded lectures Suitable for distance students. For Interdisciplinary Science and Practice students only.",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "13349",
+        "Course Number": "ISAP 1002",
+        "Section": "A",
+        "Title": "Sem Interdisciplinary Sci",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "Yes",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Sean Landsman",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Mon Wed Time: 08:35 - 09:55",
+        "Also Register In": "Section Information:Blended. In class discussions and pre-recorded lectures. Distance students must be available for inclass discussions. For Interdisciplinary Science and Practice students only.",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "13350",
+        "Course Number": "ISAP 2002",
+        "Section": "A",
+        "Title": "Rsrch Princ Intdsplnary Sci",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Shannon Bower",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Wed Time: 14:35 - 17:25",
+        "Also Register In": "Section Information:Synchronous. Not suitable for distance students. For Interdisciplinary Science and Practice students only.",
+        "Other": "Cancelled",
+        "none": "Section Information:For Interdisciplinary Science and Practice students only."
+    },
+    {
+        "Status": "Open",
+        "CRN": "13352",
+        "Course Number": "ISAP 3004",
+        "Section": "A",
+        "Title": "Science Policy",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Tue Time: 17:35 - 20:25",
+        "Meeting Date": "none",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

@@ -1,1 +1,47 @@
-[]
+[
+    {
+        "Status": "Registration Closed",
+        "CRN": "20295",
+        "Course Number": "EURR 4901",
+        "Section": "A",
+        "Title": "Tutorial-Eur/Russ Studies",
+        "Credits": ".5",
+        "Type": "Tutorial",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Jeff Sahadeo",
+        "Meeting Date": "Meeting Date: May 04, 2020 to Aug 14, 2020 Days: Time:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20296",
+        "Course Number": "EURR 4902",
+        "Section": "A",
+        "Title": "Tutorial-Eur/Russ Studies",
+        "Credits": ".5",
+        "Type": "Tutorial",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Crina Viju",
+        "Meeting Date": "Meeting Date: May 04, 2020 to Aug 14, 2020 Days: Time:",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Registration Closed",
+        "CRN": "20297",
+        "Course Number": "EURR 4908",
+        "Section": "A",
+        "Title": "Honours Essay",
+        "Credits": "1",
+        "Type": "Research Essay",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Crina Viju",
+        "Meeting Date": "Meeting Date: May 04, 2020 to Aug 14, 2020 Days: Time:",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

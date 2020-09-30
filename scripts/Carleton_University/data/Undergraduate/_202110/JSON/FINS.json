@@ -1,0 +1,62 @@
+[
+    {
+        "Status": "Open",
+        "CRN": "12673",
+        "Course Number": "FINS 3105",
+        "Section": "W",
+        "Title": "French Reading II",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Aleksandra Gacesa",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Time:",
+        "Also Register In": "Section Information:Online Course. Designed for Web delivery. No on-campus classroom component. Further information here CUOL Students taking a French course at Carleton for the first time must complete the French Language Placement Test online Precludes additional credit for FREN 1006.",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "12675",
+        "Course Number": "FINS 3801",
+        "Section": "A",
+        "Title": "Selected Topics in French A",
+        "Credits": ".5",
+        "Type": "Other",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Time:",
+        "Meeting Date": "Section Information:Students may take a third-year course offered in the Department of French while submitting course work in English This course does not count towards any degree program in French.",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "12676",
+        "Course Number": "FINS 4510",
+        "Section": "A",
+        "Title": "Qubec Studies",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Catherine Khordoc",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Mon Time: 11:35 - 14:25",
+        "Also Register In": "Section Information:Cross-listed with CDNS 4510. Prerequisites:  CDNS 3500 and 4th year standing or permission of the School. Online course with synchronous and asynchronous components. Synchronous group meetings to take place during course scheduled hours.  Exact frequency and times of synchronous components to be confirmed by your instructor.",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "12677",
+        "Course Number": "FINS 4802",
+        "Section": "B",
+        "Title": "Selected Topics in French B",
+        "Credits": ".5",
+        "Type": "Other",
+        "Restrictions": "Yes",
+        "Prerequistes": "No",
+        "Instructor Name": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Time:",
+        "Meeting Date": "Section Information:Students may take a fourth- or fifth-year special topic seminar offered in the Department of French while submitting written work in English.  This course does not count towards credit in any degree program in French.",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

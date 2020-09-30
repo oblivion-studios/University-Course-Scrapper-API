@@ -1,0 +1,62 @@
+[
+    {
+        "Status": "Open",
+        "CRN": "13469",
+        "Course Number": "LATN 1006",
+        "Section": "A",
+        "Title": "Introduction to Latin II",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Liz Klaassen",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Tue Thu Time: 14:35 - 16:25",
+        "Also Register In": "Section Information:Synchronous courses - real-time, online course where the instructor and students meet via web conferencing tools at the scheduled dates/times",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "13470",
+        "Course Number": "LATN 2201",
+        "Section": "A",
+        "Title": "Intermediate Latin II",
+        "Credits": ".5",
+        "Type": "Tutorial",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Timothy Pettipiece",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Mon Wed Time: 10:05 - 11:25",
+        "Also Register In": "Section Information:Precludes additional credit for LATN 2001.  Blended course: some lectures will be live at stated times.",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "13471",
+        "Course Number": "LATN 3901",
+        "Section": "B",
+        "Title": "Advanced Latin II",
+        "Credits": ".5",
+        "Type": "Tutorial",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Shane Hawkins",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Tue Time: 11:35 - 14:25",
+        "Also Register In": "none",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "13472",
+        "Course Number": "LATN 4901",
+        "Section": "B",
+        "Title": "Directed Study",
+        "Credits": ".5",
+        "Type": "Independent Study",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Shane Hawkins",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Tue Time: 11:35 - 14:25",
+        "Also Register In": "none",
+        "Other": "none"
+    }
+]

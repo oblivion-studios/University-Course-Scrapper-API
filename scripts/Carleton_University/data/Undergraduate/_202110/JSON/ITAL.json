@@ -1,0 +1,48 @@
+[
+    {
+        "Status": "Waitlist Open",
+        "CRN": "13354",
+        "Course Number": "ITAL 1010",
+        "Section": "D",
+        "Title": "First-Year Italian I",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "No",
+        "Instructor Name": "Maria Cristina Loi",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Tue Thu Time: 14:35 - 16:25",
+        "Also Register In": "Section Information:Must complete additional requirements to remain in the course. See the Modern Languages website, www.carleton.ca/slals/ for more information. For students learning the language for the 1st time. All others require placement (see previous link). If full, waitlists open on Carleton Central July 2. Precludes additional credit for ITAL 1110.",
+        "Other": "Waitlist Open",
+        "none": "Section Information:Registering 1st time in ITAL  placement required BEFORE registration.  For information see www.carleton.ca/slals/. Precludes additional credit for ITAL 1110."
+    },
+    {
+        "Status": "Open",
+        "CRN": "13357",
+        "Course Number": "ITAL 1020",
+        "Section": "B",
+        "Title": "First-Year Italian II",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Claudia Rocca",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Tue Thu Time: 09:35 - 11:25",
+        "Also Register In": "Section Information:Registering 1st time in ITAL  placement required BEFORE registration.  For information see www.carleton.ca/slals/. Precludes additional credit for ITAL 1110.",
+        "Other": "none"
+    },
+    {
+        "Status": "Open",
+        "CRN": "13358",
+        "Course Number": "ITAL 2020",
+        "Section": "A",
+        "Title": "Second-Year Italian II",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Claudia Rocca",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Tue Thu Time: 14:35 - 16:25",
+        "Also Register In": "Section Information:Registering 1st time in ITAL  placement required BEFORE registration. For information see www.carleton.ca/slals/. Precludes additional credit for ITAL 2110.",
+        "Other": "none"
+    }
+]

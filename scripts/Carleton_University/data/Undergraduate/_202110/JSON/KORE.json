@@ -1,0 +1,33 @@
+[
+    {
+        "Status": "Waitlist Open",
+        "CRN": "13460",
+        "Course Number": "KORE 1020",
+        "Section": "A",
+        "Title": "First-Year Korean II",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Seunghee Chung",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Tue Thu Time: 14:35 - 16:25",
+        "Also Register In": "Section Information:Registering 1st time in KORE  placement required BEFORE registration.  For information see www.carleton.ca/slals/. Precludes additional credit for LANG 1020, when the language of instruction was Korean.",
+        "Other": "Waitlist Open",
+        "none": "Section Information:Registering 1st time in KORE  placement required BEFORE registration.  For information see www.carleton.ca/slals/. Precludes additional credit for LANG 2020, when the language of instruction was Korean."
+    },
+    {
+        "Status": "Open",
+        "CRN": "13464",
+        "Course Number": "KORE 3020",
+        "Section": "A",
+        "Title": "Third-Year Korean II",
+        "Credits": ".5",
+        "Type": "Seminar",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Hyoun Jeong Yoo",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Tue Thu Time: 10:05 - 11:25",
+        "Also Register In": "Section Information:Registering 1st time in Korean placement required BEFORE registration.  For information see www.carleton.ca/slals/. Precludes additional credit for LING 3009, if section B taken in Winter 2019 and the language of instruction was Korean.",
+        "Other": "none"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Status": "Open",
+        "CRN": "13353",
+        "Course Number": "ISCI 2002",
+        "Section": "A",
+        "Title": "The Environment: Human Impacts",
+        "Credits": ".5",
+        "Type": "Lecture",
+        "Restrictions": "Yes",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Laura Stuart",
+        "Meeting Date": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Tue Time: 18:05 - 19:55",
+        "Also Register In": "Also Register in:ISCI 2002 A1",
+        "Other": "Section Information:Asynchronous."
+    },
+    {
+        "Status": "Open",
+        "CRN": "15504",
+        "Course Number": "ISCI 2002",
+        "Section": "A1",
+        "Title": "The Environment: Human Impacts",
+        "Credits": "0",
+        "Type": "Tutorial",
+        "Restrictions": "No",
+        "Prerequistes": "Yes",
+        "Instructor Name": "Meeting Date: Jan 06, 2021 to Apr 09, 2021 Days: Thu Time: 10:35 - 11:25",
+        "Meeting Date": "Also Register in:ISCI 2002 A",
+        "Also Register In": "Section Information:Online live session.",
+        "Other": "none"
+    }
+]

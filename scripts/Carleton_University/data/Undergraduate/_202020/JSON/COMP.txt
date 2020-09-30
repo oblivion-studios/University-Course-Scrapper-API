@@ -1,0 +1,540 @@
+
+
+
+
+Registration Closed
+
+20784
+
+
+COMP 1005
+
+A
+
+Introduc to Computer Science I
+
+.5
+Lecture
+
+Yes
+
+No
+Jason Hinek
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Tue Thu Time: 18:05 - 20:55
+
+
+Also Register in:COMP 1005 T01 or T02
+
+
+Section Information:Virtual attendance at the days/times listed is required. Lectures and tutorials will be online (up to 9 hours each week). Office hours will be online. Assignments will be done using Python (version 3) and are expected to require about 10 hours each week (averaged over the semester; not all this time will require programming). You will need access to a computer with a sufficient internet connection to meet these time/resource requirements for the course. Precludes additional credit for COMP 1405, SYSC 1100 (no longer offered), SYSC 1005, ECOR 1606, ECOR 1051, CGSC 1005,  BIT 1400.
+
+
+
+
+
+
+Registration Closed
+
+20785
+
+
+COMP 1005
+
+T01
+
+Introduc to Computer Science I
+
+0
+Tutorial
+No
+No
+Jason Hinek
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Wed Time: 18:05 - 20:55
+
+
+Also Register in:COMP 1005 A
+
+
+Section Information:Virtual attendance at the days/times listed is required. See additional notes under lecture COMP 1005 A.
+
+
+
+
+
+
+Registration Closed
+
+20786
+
+
+COMP 1005
+
+T02
+
+Introduc to Computer Science I
+
+0
+Tutorial
+No
+No
+Jason Hinek
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Fri Time: 18:05 - 20:55
+
+
+Also Register in:COMP 1005 A
+
+
+Section Information:Virtual attendance at the days/times listed is required. See additional notes under lecture COMP 1005 A.
+
+
+
+
+
+
+Registration Closed
+
+21238
+
+
+COMP 1006
+
+A
+
+Introdu to Computer Science II
+
+.5
+Lecture
+
+Yes
+
+
+Yes
+
+Farah Chanchary
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Tue Thu Time: 18:05 - 20:55
+
+
+Also Register in:COMP 1006 T01 or T02
+
+
+Section Information:Virtual attendance at the days/times listed is required. Lectures and tutorials will be online (up to 9 hours each week). Office hours will be online. Assignments will be done using Java JDK 13 (or higher) and are expected to require about 10 hours each week (averaged over the semester; not all this time will require programming). You will need access to a computer with a sufficient internet connection to meet these time/resource requirements for the course. Precludes additional credit for COMP 1406, SYSC 1101 (no longer offered), SYSC 2004, BUSI 2402, BIT 2400.
+
+
+
+
+
+
+Registration Closed
+
+21239
+
+
+COMP 1006
+
+T01
+
+Introdu to Computer Science II
+
+0
+Tutorial
+No
+No
+Farah Chanchary
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Fri Time: 18:05 - 20:55
+
+
+Also Register in:COMP 1006 A
+
+
+Section Information:Virtual attendance at the days/times listed is required. See additional notes under lecture COMP 1006 A.
+
+
+
+
+
+
+Registration Closed
+
+21240
+
+
+COMP 1006
+
+T02
+
+Introdu to Computer Science II
+
+0
+Tutorial
+No
+No
+Farah Chanchary
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Wed Time: 18:05 - 20:55
+
+
+Also Register in:COMP 1006 A
+
+
+Section Information:Virtual attendance at the days/times listed is required. See additional notes under lecture COMP 1006 A.
+
+
+
+
+
+
+Registration Closed
+
+20787
+
+
+COMP 1405
+
+A
+
+Intro to Computer Science I
+
+.5
+Lecture
+
+Yes
+
+No
+Jason Hinek
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Tue Thu Time: 18:05 - 20:55
+
+
+Also Register in:COMP 1405 T01 or T02
+
+
+Section Information:Virtual attendance at the days/times listed is required. Lectures and tutorials will be online (up to 9 hours each week). Office hours will be online. Assignments will be done using Python (version 3) and are expected to require about 10 hours each week (averaged over the semester; not all this time will require programming). You will need access to a computer with a sufficient internet connection to meet these time/resource dequirements for the course. Precludes additional credit for COMP 1005, SYSC 1100 (no longer offered), SYSC 1005, ECOR 1606, ECOR 1051, CGSC 1005,  BIT 1400.
+
+
+
+
+
+
+Registration Closed
+
+20788
+
+
+COMP 1405
+
+T01
+
+Intro to Computer Science I
+
+0
+Tutorial
+No
+No
+Jason Hinek
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Wed Time: 18:05 - 20:55
+
+
+Also Register in:COMP 1405 A
+
+
+Section Information:Virtual attendance at the days/times listed is required. See additional notes under lecture COMP 1405 A.
+
+
+
+
+
+
+Registration Closed
+
+20789
+
+
+COMP 1405
+
+T02
+
+Intro to Computer Science I
+
+0
+Tutorial
+No
+No
+Jason Hinek
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Fri Time: 18:05 - 20:55
+
+
+Also Register in:COMP 1405 A
+
+
+Section Information:Virtual attendance at the days/times listed is required. See additional notes under lecture COMP 1405 A.
+
+
+
+
+
+
+Registration Closed
+
+21241
+
+
+COMP 1406
+
+A
+
+Intro to Computer Science II
+
+.5
+Lecture
+
+Yes
+
+
+Yes
+
+Farah Chanchary
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Tue Thu Time: 18:05 - 20:55
+
+
+Also Register in:COMP 1406 T01 or T02
+
+
+Section Information:Virtual attendance at the days/times listed is required. Lectures and tutorials will be online (up to 9 hours each week). Office hours will be online. Assignments will be done using Java JDK 13 (or higher) and are expected to require about 10 hours each week (averaged over the semester; not all this time will require programming). You will need access to a computer with a sufficient internet connection to meet these time/resource requirements for the course. Precludes additional credit for COMP 1006, SYSC 1101 (no longer offered), SYSC 2004, BUSI 2402, BIT 2400.
+
+
+
+
+
+
+Registration Closed
+
+21242
+
+
+COMP 1406
+
+T01
+
+Intro to Computer Science II
+
+0
+Tutorial
+No
+No
+Farah Chanchary
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Fri Time: 18:05 - 20:55
+
+
+Also Register in:COMP 1406 A
+
+
+Section Information:Virtual attendance at the days/times listed is required. See additional notes under lecture COMP 1406 A.
+
+
+
+
+
+
+Registration Closed
+
+21243
+
+
+COMP 1406
+
+T02
+
+Intro to Computer Science II
+
+0
+Tutorial
+No
+No
+Farah Chanchary
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Wed Time: 18:05 - 20:55
+
+
+Also Register in:COMP 1406 A
+
+
+Section Information:Virtual attendance at the days/times listed is required. See additional notes under lecture COMP 1406 A.
+
+
+
+
+
+
+Registration Closed
+
+20149
+
+
+COMP 1805
+
+A
+
+Discrete Structures
+
+.5
+Lecture
+
+Yes
+
+No
+Darryl Hill
+
+
+ Meeting Date: May 04, 2020 to Aug 14, 2020 Days: Mon Time: 17:35 - 20:25
+
+
+Also Register in:COMP 1805 T01
+
+
+Section Information:Virtual attendance at the days/times listed is required. Expect 9 hours commitment per week (on average). 4 hours at the described mandatory dates and times, plus 5 hours independent work. Lectures and tutorials will be online, up to 4 hours of material each week (lectures 3 hours, tutorial lessons and online activity / quiz up to 1 hour).  1-2 hours independent review each week. Assignments will be done using a suitable document editor (Word, Latex) and are expected to require about 3-4 hours each week (averaged over the semester). Office hours will be online. You will need access to a computer with a sufficient internet connection to meet these time/resource requirements for the course. Precludes additional credit for MATH 1800 and 1805. NOTE: As of Fall 2017, grade of C- or above required in order to take COMP 2804.
+
+
+
+
+
+
+Registration Closed
+
+20150
+
+
+COMP 1805
+
+T01
+
+Discrete Structures
+
+0
+Tutorial
+No
+No
+Darryl Hill
+
+
+ Meeting Date: May 04, 2020 to Aug 14, 2020 Days: Mon Time: 20:35 - 21:25
+
+
+Also Register in:COMP 1805 A
+
+
+Section Information:Virtual attendance at the days/times listed is required.
+
+
+
+
+
+
+Registration Closed
+
+20153
+
+
+COMP 4900
+
+A
+
+Intensive Game Dev. Project
+
+.5
+Lecture
+
+Yes
+
+
+Yes
+
+Connor Hillen
+
+
+ Meeting Date: May 04, 2020 to Aug 14, 2020 Days: Tue Thu Time: 18:05 - 20:55
+
+
+Section Information:Adv Topics in CS- Intensive Game Development Project Virtual attendance at the day/times listed is required. This course involves using an existing game engine to develop a complete game from a high-level design. Student will cooperate in a small group to design the architecture of the system and construct the algorithms and software to realize a polished, playable game. Admission is by permission of the School, please submit a registration override request.  For BCS students only with priority to 3rd and 4th year students. Prerequisites: COMP2401, COMP 2402 and COMP2404.
+
+
+
+
+
+
+Registration Closed
+
+20154
+
+
+COMP 4901
+
+A
+
+Directed Studies
+
+.5
+Directed Studies
+
+Yes
+
+No
+Mark Lanthier
+
+
+ Meeting Date: May 04, 2020 to Aug 14, 2020 Days: Time:
+
+
+Section Information:Requires permission of department
+
+
+
+
+
+
+Registration Closed
+
+20155
+
+
+COMP 4905
+
+A
+
+Honours Project
+
+.5
+Independent Study
+
+Yes
+
+No
+Mark Lanthier
+
+
+ Meeting Date: May 04, 2020 to Aug 14, 2020 Days: Time:
+
+
+Section Information:Requires permission of department. Precludes additional credit for COMP 4906. Please see carleton.ca/scs/ for information on finding a supervisor and submitting project proposal.
+
+

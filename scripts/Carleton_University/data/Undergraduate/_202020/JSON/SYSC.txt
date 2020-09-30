@@ -1,0 +1,525 @@
+
+
+
+
+Registration Closed
+
+21142
+
+
+SYSC 2100
+
+A
+
+Algorithms and Data Structures
+
+.5
+Lecture
+
+Yes
+
+
+Yes
+
+Jean-Daniel Medjo Me Biomo
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Mon Wed Time: 11:35 - 14:25
+
+
+Also Register in:SYSC 2100 L1
+
+
+Section Information:Precludes additional credit for SYSC 2002 (no longer  offered) and COMP 2402. Mixture of live scheduled meetings and recorded meetings. Students need to be prepared to meet sometimes online via web conferencing tools at scheduled days/times.
+
+
+
+
+
+
+Registration Closed
+
+21143
+
+
+SYSC 2100
+
+L1
+
+Algorithms and Data Structures
+
+0
+Laboratory
+No
+No
+
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Time:
+
+
+Also Register in:SYSC 2100 A
+
+
+
+
+
+
+Registration Closed
+
+21145
+
+
+SYSC 2310
+
+A
+
+Intro to Digital Systems
+
+.5
+Lecture
+
+Yes
+
+
+Yes
+
+Basim Hafidh
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Tue Thu Time: 11:35 - 14:25
+
+
+Also Register in:SYSC 2310 L1
+
+
+Section Information:Precludes additional credit for ELEC 2607. Mixture of live scheduled meetings and recorded meetings. Students need to be prepared to meet sometimes online via web conferencing tools at scheduled days/times.
+
+
+
+
+
+
+Registration Closed
+
+21146
+
+
+SYSC 2310
+
+L1
+
+Intro to Digital Systems
+
+0
+Laboratory
+No
+No
+Basim Hafidh
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Tue Time: 14:35 - 17:25
+
+
+Also Register in:SYSC 2310 A
+
+
+
+
+
+
+Registration Closed
+
+21451
+
+
+SYSC 2320
+
+A
+
+Intro. Computer Org. and Arch.
+
+.5
+Lecture
+
+Yes
+
+
+Yes
+
+Ramy Gohary
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Mon Wed Time: 11:35 - 14:25
+
+
+Also Register in:SYSC 2320 L1 or L2
+
+
+Section Information:Precludes additional credit for SYSC 2001 and SYSC 3006. Real-time, online course. Instructors and students meet via web conferencing tools, at scheduled days and times.
+
+
+
+
+
+
+Registration Closed
+
+21452
+
+
+SYSC 2320
+
+L1
+
+Intro. Computer Org. and Arch.
+
+0
+Laboratory
+No
+No
+Ramy Gohary
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Mon Wed Time: 14:35 - 17:25
+
+
+Also Register in:SYSC 2320 A
+
+
+
+
+
+
+Registration Closed
+
+21453
+
+
+SYSC 2320
+
+L2
+
+Intro. Computer Org. and Arch.
+
+0
+Laboratory
+No
+No
+Ramy Gohary
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Mon Wed Time: 08:35 - 11:25
+
+
+Also Register in:SYSC 2320 A
+
+
+
+
+
+
+Registration Closed
+
+21148
+
+
+SYSC 3006
+
+A
+
+Computer Organization
+
+.5
+Lecture
+
+Yes
+
+
+Yes
+
+Michel Sayde
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Mon Wed Time: 08:35 - 11:25
+
+
+Also Register in:SYSC 3006 L1 or L2
+
+
+Section Information:Precludes additional credit for SYSC 2001, SYSC 2003,  SYSC 2320 and SYSC 3310. May not be taken for credit by  students in Computer Systems Engineering, Communications  Engineering, or Software Engineering. Mixture of live scheduled meetings and recorded meetings. Students need to be prepared to meet sometimes online via web conferencing tools at scheduled days/times.
+
+
+
+
+
+
+Registration Closed
+
+21149
+
+
+SYSC 3006
+
+L1
+
+Computer Organization
+
+0
+Laboratory
+No
+No
+
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Time:
+
+
+Also Register in:SYSC 3006 A
+
+
+
+
+
+
+Registration Closed
+
+21150
+
+
+SYSC 3006
+
+L2
+
+Computer Organization
+
+0
+Laboratory
+No
+No
+
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Time:
+
+
+Also Register in:SYSC 3006 A
+
+
+
+
+
+
+Registration Closed
+
+21151
+
+
+SYSC 3310
+
+A
+
+Intro to Real-Time Systems
+
+.5
+Lecture
+
+Yes
+
+
+Yes
+
+Lynn Marshall
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Mon Wed Time: 14:35 - 17:25
+
+
+Also Register in:SYSC 3310 L1
+
+
+Section Information:Precludes additional credit for SYSC 2003 and SYSC 3006. Registration requires Departmental Approval. Please contact your advisor: https://ughelp.sce.carleton.ca/info?contact. Please put the course code as the message subject. Mixture of live schedued meetings and recorded meetings. Students need to be prepared to meet sometimes online via web conferencing tools at scheduled days/times.
+
+
+
+
+
+
+Registration Closed
+
+21152
+
+
+SYSC 3310
+
+L1
+
+Intro to Real-Time Systems
+
+0
+Laboratory
+No
+No
+Lynn Marshall
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Time:
+
+
+Also Register in:SYSC 3310 A
+
+
+
+
+
+
+Registration Closed
+
+21454
+
+
+SYSC 3320
+
+A
+
+Computer Systems Design
+
+.5
+Lecture
+
+Yes
+
+
+Yes
+
+Jean-Daniel Medjo Me Biomo
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Tue Thu Time: 08:35 - 11:25
+
+
+Also Register in:SYSC 3320 L1
+
+
+Section Information:Precludes additional credit for SYSC 3601 and ELEC 4601. Registration requires Departmental Approval. Please contact your advisor: https://ughelp.sce.carleton.ca/info?contact. Please put the course code as the message subject. Mixture of live scheduled meetings and recorded meetings. Students need to be prepared to meet sometimes online via web conferencing tools at scheduled days/times.
+
+
+
+
+
+
+Registration Closed
+
+21455
+
+
+SYSC 3320
+
+L1
+
+Computer Systems Design
+
+0
+Laboratory
+No
+No
+
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Time:
+
+
+Also Register in:SYSC 3320 A
+
+
+
+
+
+
+Registration Closed
+
+21456
+
+
+SYSC 3501
+
+A
+
+Communication Theory
+
+.5
+Lecture
+
+Yes
+
+
+Yes
+
+Xiaoping Liu
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Mon Wed Time: 08:35 - 11:25
+
+
+Also Register in:SYSC 3501 L1 or L2
+
+
+Section Information:Precludes additional credit for SYSC 3503. Mixture of live scheduled meetings and recorded meetings. Students need to be prepared to meet sometimes online via web conferencing tools at scheduled days/times.
+
+
+
+
+
+
+Registration Closed
+
+21457
+
+
+SYSC 3501
+
+L1
+
+Communication Theory
+
+0
+Laboratory
+No
+No
+Xiaoping Liu
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Mon Time: 11:35 - 14:25
+
+
+Also Register in:SYSC 3501 A
+
+
+
+
+
+
+Registration Closed
+
+21458
+
+
+SYSC 3501
+
+L2
+
+Communication Theory
+
+0
+Laboratory
+No
+No
+Xiaoping Liu
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Tue Time: 11:35 - 14:25
+
+
+Also Register in:SYSC 3501 A
+
+

@@ -1,0 +1,503 @@
+
+
+
+
+Registration Closed
+
+20885
+
+
+ELEC 2501
+
+A
+
+Circuits and Signals
+
+.5
+Lecture
+
+Yes
+
+
+Yes
+
+Connor Kupchak
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Tue Wed Time: 17:35 - 20:25
+
+
+Also Register in:ELEC 2501 L01 or L02 and ELEC 2501 P01 or P02
+
+
+Section Information:Reserved for students required to repeat in all programs except Software Engineering. Departmental Permission Required, please submit an Engineering Request Form (ERF) http://at.eng.carleton.ca/engsched/ Precludes additional credit for ELEC 3605.
+
+
+
+
+
+
+Registration Closed
+
+20886
+
+
+ELEC 2501
+
+L01
+
+Circuits and Signals
+
+0
+Laboratory
+
+Yes
+
+No
+Connor Kupchak
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Tue Time: 13:05 - 15:55
+
+
+Also Register in:ELEC 2501 A
+
+
+
+
+
+
+Registration Closed
+
+20887
+
+
+ELEC 2501
+
+L02
+
+Circuits and Signals
+
+0
+Laboratory
+
+Yes
+
+No
+Connor Kupchak
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Fri Time: 11:35 - 14:25
+
+
+Also Register in:ELEC 2501 A
+
+
+
+
+
+
+Registration Closed
+
+20888
+
+
+ELEC 2501
+
+P01
+
+Circuits and Signals
+
+0
+Problem Analysis
+
+Yes
+
+No
+Connor Kupchak
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Thu Time: 09:35 - 12:25
+
+
+Also Register in:ELEC 2501 A
+
+
+
+
+
+
+Registration Closed
+
+20889
+
+
+ELEC 2501
+
+P02
+
+Circuits and Signals
+
+0
+Problem Analysis
+
+Yes
+
+No
+Connor Kupchak
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Thu Time: 14:35 - 17:25
+
+
+Also Register in:ELEC 2501 A
+
+
+
+
+
+
+Registration Closed
+
+21276
+
+
+ELEC 2507
+
+A
+
+Electronics I
+
+.5
+Lecture
+
+Yes
+
+
+Yes
+
+Ram Achar
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Tue Thu Time: 11:35 - 14:25
+
+
+Also Register in:ELEC 2507 L01 or L02 and ELEC 2507 P01 or P02
+
+
+Section Information:Precludes additional credit for PLT 2006.
+
+
+
+
+
+
+Registration Closed
+
+21277
+
+
+ELEC 2507
+
+L01
+
+Electronics I
+
+0
+Laboratory
+
+Yes
+
+No
+Ram Achar
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Thu Time: 08:35 - 11:25
+
+
+Also Register in:ELEC 2507 A
+
+
+
+
+
+
+Registration Closed
+
+21278
+
+
+ELEC 2507
+
+L02
+
+Electronics I
+
+0
+Laboratory
+
+Yes
+
+No
+Ram Achar
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Wed Time: 08:35 - 11:25
+
+
+Also Register in:ELEC 2507 A
+
+
+
+
+
+
+Registration Closed
+
+21279
+
+
+ELEC 2507
+
+P01
+
+Electronics I
+
+0
+Problem Analysis
+
+Yes
+
+No
+Ram Achar
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Tue Time: 08:35 - 11:25
+
+
+Also Register in:ELEC 2507 A
+
+
+
+
+
+
+Registration Closed
+
+21280
+
+
+ELEC 2507
+
+P02
+
+Electronics I
+
+0
+Problem Analysis
+
+Yes
+
+No
+Ram Achar
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Mon Time: 08:35 - 11:25
+
+
+Also Register in:ELEC 2507 A
+
+
+
+
+
+
+Registration Closed
+
+21281
+
+
+ELEC 3509
+
+B
+
+Electronics II
+
+.5
+Lecture
+
+Yes
+
+
+Yes
+
+Qi-jun Zhang
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Tue Thu Time: 08:35 - 11:25
+
+
+Also Register in:ELEC 3509 B1 or B2
+
+
+Section Information:Course designed for Co-Op students in their third year.
+
+
+
+
+
+
+Registration Closed
+
+21282
+
+
+ELEC 3509
+
+B1
+
+Electronics II
+
+0
+Laboratory
+
+Yes
+
+No
+Qi-jun Zhang
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Wed Thu Time: 14:05 - 16:55
+
+
+Also Register in:ELEC 3509 B
+
+
+
+
+
+
+Registration Closed
+
+21283
+
+
+ELEC 3509
+
+B2
+
+Electronics II
+
+0
+Laboratory
+
+Yes
+
+No
+Qi-jun Zhang
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Mon Time: 14:05 - 16:55
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Fri Time: 08:35 - 11:25
+
+
+Also Register in:ELEC 3509 B
+
+
+
+
+
+
+Registration Closed
+
+20890
+
+
+ELEC 3909
+
+B
+
+Electromagnetic Waves
+
+.5
+Lecture
+
+Yes
+
+
+Yes
+
+Shulabh Gupta
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Tue Thu Time: 11:35 - 14:25
+
+
+Also Register in:ELEC 3909 B1 or B2
+
+
+Section Information:Precludes additional credit for PHYS 3308. Course designed for Co-Op students in their third year.
+
+
+
+
+
+
+Registration Closed
+
+20891
+
+
+ELEC 3909
+
+B1
+
+Electromagnetic Waves
+
+0
+Problem Analysis
+
+Yes
+
+No
+Shulabh Gupta
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Fri Time: 08:35 - 11:25
+
+
+Also Register in:ELEC 3909 B
+
+
+
+
+
+
+Registration Closed
+
+20892
+
+
+ELEC 3909
+
+B2
+
+Electromagnetic Waves
+
+0
+Problem Analysis
+
+Yes
+
+No
+Shulabh Gupta
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Fri Time: 11:35 - 14:25
+
+
+Also Register in:ELEC 3909 B
+
+

@@ -1,0 +1,182 @@
+
+
+
+
+Registration Closed
+
+21604
+
+
+NET 1002
+
+A
+
+Networking Fundamentals
+
+.5
+Lecture
+
+Yes
+
+No
+Yvan Perron
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Tue Thu Time: 10:05 - 12:55
+
+
+Also Register in:NET 1002 A1
+
+
+
+
+
+
+Registration Closed
+
+21605
+
+
+NET 1002
+
+A1
+
+Networking Fundamentals
+
+0
+Laboratory
+No
+No
+Yvan Perron
+
+
+ Meeting Date: May 04, 2020 to Jun 16, 2020 Days: Wed Time: 10:05 - 13:55
+
+
+Also Register in:NET 1002 A
+
+
+
+
+
+
+Registration Closed
+
+21622
+
+
+NET 1006
+
+A
+
+Routing and Switching
+
+.5
+Lecture
+
+Yes
+
+
+Yes
+
+Gurpreet Singh Sidhu
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Mon Thu Time: 10:00 - 13:00
+
+
+Also Register in:NET 1006 A1
+
+
+
+
+
+
+Registration Closed
+
+21606
+
+
+NET 1006
+
+A1
+
+Routing and Switching
+
+0
+Laboratory
+No
+
+Yes
+
+Gurpreet Singh Sidhu
+
+
+ Meeting Date: Jul 02, 2020 to Aug 14, 2020 Days: Wed Fri Time: 10:00 - 13:00
+
+
+Also Register in:NET 1006 A
+
+
+
+
+
+
+Registration Closed
+
+21609
+
+
+NET 2000
+
+A
+
+Intermediate Networking
+
+.5
+Lecture
+
+Yes
+
+
+Yes
+
+Sherif Toulan
+
+
+ Meeting Date: May 11, 2020 to Jun 25, 2020 Days: Mon Wed Time: 14:05 - 16:55
+
+
+Also Register in:NET 2000 A1
+
+
+
+
+
+
+Registration Closed
+
+21610
+
+
+NET 2000
+
+A1
+
+Intermediate Networking
+
+0
+Laboratory
+No
+
+Yes
+
+Sherif Toulan
+
+
+ Meeting Date: May 15, 2020 to Jun 26, 2020 Days: Fri Time: 13:05 - 15:55
+
+
+Also Register in:NET 2000 A
+
+

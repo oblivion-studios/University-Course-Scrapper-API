@@ -49,7 +49,7 @@ static_course_code_fall = [ "AERO", "AFRI", "ASLA", "ANTH", "ALDS", "ARAB", "ARC
                             "PADM", "PAPM", "RELI", "RUSS", "SXST", "SOWK", "SOCI","SPAN",
                             "STAT", "SREE", "SYSC", "TSES", "WGST"]     # "INSC", "PLT" , "SAST" - Removed 9/23/2020
 
-static_course_code_winter = ["AERO", "AFRI", "ASLA", "ANTH", "ALDS", "ARAB", "ARCS",
+static_course_code_winter = ["AERO", "AFRI", "ASLA", "ANTH", "ALDS", "ARAB", "ARCY", "ARCS",
                             "ARCC", "ARCN", "ARCH", "ARCU", "ARTH", "BIOC", "BIOL",
                             "BUSI", "CDNS", "CIED", "CHEM", "CHST", "CHIN", "CIVE", "CLCV",
                             "COOP", "CGSC", "CCDP", "COMS", "COMP", "CRCJ", "DIGH",
@@ -64,9 +64,16 @@ static_course_code_winter = ["AERO", "AFRI", "ASLA", "ANTH", "ALDS", "ARAB", "AR
                             "PADM", "PAPM", "RELI", "RUSS", "SXST", "SOWK", "SOCI", "SPAN",
                             "STAT", "SREE", "SYSC", "TSES", "WGST"]                      
 
-# Removed following courses due to empty result: "ARCN","GERM", "INDG", "IDES", "INSC", "ITIS", "ITEC", "IPIS"
-static_course_code_summer = ["AFRI", "ASLA", "ANTH", "ALDS", "ARCC", "ARCH", "ARTH", "BIOC", "BIOL", "BUSI", "CDNS", "CHEM", "CHST", "CIVE", "CLCV", "CGSC", "CCDP", "COMS", "COMP", "CRCJ", "DIGH", "ERTH", "ECON", "ELEC", "ECOR", "ENGL", "ESLA", "ENVE", "ENSC", "ENST", "EURR", "FILM", "FOOD", "FREN",
-                             "GEOG", "GEOM", "GPOL", "GINS", "HLTH", "HIST", "HUMR", "HUMS", "BIT", "IPAF", "ITAL", "JAPA", "KORE", "LANG", "LAWS", "LING", "MATH", "MAAE", "MUSI", "NET", "NEUR", "PHIL", "PLT", "PHYS", "PSCI", "PSYC", "PAPM", "RELI", "SOWK", "SOCI", "SPAN", "STAT", "SYSC", "TSES", "WGST"]
+# Removed following courses due to empty result: "ARCC", "ARCN", "HUMS", "INSC", "ITIS", "ITEC", "IPIS", "JAPA", "LANG", "KORE", "PLT", "SPAN"
+static_course_code_summer = ["AFRI", "ASLA", "ANTH", "ALDS", "ARCS", "ARCN", "ARCH", "ARTH", "BIOC", 
+                             "BIOL", "BUSI", "CDNS", "CHEM", "CHST", "CIVE", "CLCV", "CGSC", 
+                             "CCDP", "COMS", "COMP", "CRCJ", "DIGH", "DBST", "ERTH", "ECON", "ELEC", 
+                             "ECOR", "ENGL", "ESLA", "ENVE", "ENSC", "ENST", "EURR", "FILM", 
+                             "FOOD", "FREN", "GEOG", "GEOM", "GERM", "GPOL", "GINS", "HLTH", "HIST", 
+                             "HUMR", "INDG", "IDES", "BIT", "IPAF", "ITAL",  
+                             "LAWS", "LING", "MATH", "MAAE", "MUSI", "NET", "NEUR", "PHIL", 
+                             "PHYS", "PSCI", "PSYC", "PAPM", "RELI", "SXST", "SOWK", "SOCI", 
+                             "STAT", "SYSC", "TSES", "WGST"]
 
 # Course Code for Graduate Level
 static_course_code_grad_fall = ["ACCT", "AFRI", "ANTH", "ALDS", "ARCT", "ARCS",
@@ -140,7 +147,7 @@ browser.get(URL)
 print("GET URL: http://central.carleton.ca/prod/bwysched.p_select_term?wsea_code=EXT")
 
 # Find course schedule
-valueOfSemester = '202030' # CODE: 202110 for Winter 2021
+valueOfSemester = '202020' # CODE: 202110 for Winter 2021
 selectable = Select(browser.find_element_by_id('term_code'))
 selectable.select_by_value(valueOfSemester)
 print("\nSELECTING")
@@ -158,7 +165,7 @@ time.sleep(6)
 # Database to Hold CRN, Course Code + Number + Section, Lab/Tutorial Section, Date, Building, Room
 # WEBSITE -> {Database to JSON} -> ANDROID STUDIO PORT -> ANDROID DEVICE Timetable Application
 # Return only CRN, Course Code + Number + Section, Lab/Tutorial Section, Date, Building, Room in for loop
-for x in range(0, len(static_course_code_fall)):
+for x in range(0, len(static_course_code_summer)):
     # Choose Undergraduate Level
     browser.find_element_by_xpath("//option[@value='UG']").click() # UG -> Undergraduate || GR -> Graduate
     print("SELECT Course Level")
@@ -172,8 +179,8 @@ for x in range(0, len(static_course_code_fall)):
     if x > 0:
         Select(browser.find_element_by_xpath("//select[@id='subj_id']")).deselect_all()
     
-    Select(browser.find_element_by_xpath("//select[@id='subj_id']")).select_by_value(str(static_course_code_fall[x]))
-    print("SELECT COURSE CODE: " + static_course_code_fall[x])
+    Select(browser.find_element_by_xpath("//select[@id='subj_id']")).select_by_value(str(static_course_code_summer[x]))
+    print("SELECT COURSE CODE: " + static_course_code_summer[x])
 
     # Click search with the above course parameters
     browser.find_element_by_xpath("//input[@value='Search']").click()
@@ -197,13 +204,13 @@ for x in range(0, len(static_course_code_fall)):
             # Output all rows of course data with the color of #C0C0C0
             # Each line is data to be converted into JSON
             if 'bgcolor' in container.attrs and container.attrs['bgcolor'] == '#C0C0C0':
-                with open("data/Undergraduate/_" + valueOfSemester + "/JSON/" + static_course_code_fall[x] + ".txt", "a") as fileOutput:
+                with open("data/Undergraduate/_" + valueOfSemester + "/JSON/" + static_course_code_summer[x] + ".txt", "a") as fileOutput:
                    fileOutput.write(str(container.text.encode("ascii", errors="ignore").decode()))
 
             # Output all rows of course data with the color of #DCDCDC
              # Each line is data to be converted into JSON
             if 'bgcolor' in container.attrs and container.attrs['bgcolor'] == '#DCDCDC':
-                with open("data/Undergraduate/_" + valueOfSemester + "/JSON/" + static_course_code_fall[x] + ".txt", "a") as fileOutput:
+                with open("data/Undergraduate/_" + valueOfSemester + "/JSON/" + static_course_code_summer[x] + ".txt", "a") as fileOutput:
                     fileOutput.write(str(container.text.encode("ascii", errors="ignore").decode()))
         except AttributeError:
             continue
@@ -211,11 +218,11 @@ for x in range(0, len(static_course_code_fall)):
     # Create empty JSON files --> Used later when converting the raw text files to JSON
     # Eventually the JSON files will be converted to be a SQLite database
     # {DATA} --> (Fetch and Downloaded by Android Device) from AWS or Firebase Services.
-    with open("data/Undergraduate/_" + valueOfSemester +"/JSON/" + static_course_code_fall[x] + ".json", "a") as writeJSON:
+    with open("data/Undergraduate/_" + valueOfSemester +"/JSON/" + static_course_code_summer[x] + ".json", "a") as writeJSON:
         json.dump(courseInfoData, writeJSON, ensure_ascii=False)
 
     # Notify console output
-    print("DONE SAVING TO JSON FILE --> COURSE CODE [" + static_course_code_fall[x] + "]\n")
+    print("DONE SAVING TO JSON FILE --> COURSE CODE [" + static_course_code_summer[x] + "]\n")
 
     # Return to Course Select
     browser.find_element_by_xpath("//input[@name='search_selected']").click()
